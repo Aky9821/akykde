@@ -1,0 +1,718 @@
+{
+    "short_name": {
+        "message": "AdGuard VPN"
+    },
+    "registration_error_not_empty": {
+        "message": "Не павінна быць пустым"
+    },
+    "registration_error_not_valid": {
+        "message": "Гэта значэнне несапраўднае"
+    },
+    "registration_error_min_length": {
+        "message": "Занадта кароткае значэнне. Увядзіце не менш 8 знакаў."
+    },
+    "registration_error_compromised_password": {
+        "message": "Уведзены пароль знойдзены ў <a>публічнай базе</a> скампраметаваных пароляў. Калі ласка, увядзіце іншы пароль."
+    },
+    "registration_error_unique_constraint": {
+        "message": "Гэта значэнне ўжо выкарыстоўваецца"
+    },
+    "registration_error_front_unique_validation": {
+        "message": "Паролі не супадаюць"
+    },
+    "registration_error_default": {
+        "message": "Адбылася памылка, паспрабуйце пазней"
+    },
+    "authentication_error_2fa_required": {
+        "message": "Патрабуецца 2FA-код"
+    },
+    "authentication_error_2fa_invalid": {
+        "message": "Няслушны токен"
+    },
+    "authentication_error_account_disabled": {
+        "message": "Акаўнт адключаны"
+    },
+    "authentication_error_account_locked": {
+        "message": "Акаўнт заблакаваны на 15 хвілін"
+    },
+    "authentication_error_wrong_credentials": {
+        "message": "Няслушны пароль"
+    },
+    "authentication_too_many_requests": {
+        "message": "Мы атрымалі зашмат запытаў з вашага IP-адраса. Калі ласка, паспрабуйце пазней."
+    },
+    "authentication_error_default": {
+        "message": "Адбылася памылка, паспрабуйце пазней"
+    },
+    "global_error_message": {
+        "message": "Адбылася памылка, калі ласка, звяжыцеся з намі па адрасе <a>support@adguard-vpn.com</a>"
+    },
+    "about_title": {
+        "message": "Пра нас"
+    },
+    "options_support_title": {
+        "message": "Падтрымка"
+    },
+    "options_support_faq_title": {
+        "message": "FAQ"
+    },
+    "options_support_faq_description": {
+        "message": "Пытанні і адказы"
+    },
+    "options_support_report_title": {
+        "message": "Паведаміць пра памылку"
+    },
+    "options_support_feedback_title": {
+        "message": "Пакінуць водгук"
+    },
+    "options_support_feedback_description": {
+        "message": "Адпраўляйце запыты і прапановы"
+    },
+    "options_report_bug_title": {
+        "message": "Паведаміць пра памылку"
+    },
+    "options_bug_report_email_label": {
+        "message": "Электронная пошта"
+    },
+    "options_bug_report_include_log_label": {
+        "message": "Уключыць у паведамленне дыягнастычную справаздачу"
+    },
+    "options_bug_report_email_invalid": {
+        "message": "Няправільны адрас электроннай пошты"
+    },
+    "options_bug_report_textarea_invalid": {
+        "message": "Гэта поле не можа быць пустым"
+    },
+    "options_bug_report_request_error": {
+        "message": "Адбылася памылка. Паспрабуйце пазней."
+    },
+    "options_bug_report_send_button": {
+        "message": "Адправіць"
+    },
+    "options_bug_report_sending_button": {
+        "message": "Адпраўленне..."
+    },
+    "options_bug_report_textarea_placeholder": {
+        "message": "Апішыце знойдзеную памылку..."
+    },
+    "options_bug_report_page_success": {
+        "message": "Дзякуй, ваша паведамленне адпраўлена!"
+    },
+    "options_bug_report_new_report_button": {
+        "message": "Новая справаздача"
+    },
+    "options_bug_report_textarea_label": {
+        "message": "Паведамленне"
+    },
+    "account_title": {
+        "message": "Акаўнт"
+    },
+    "account_edit": {
+        "message": "Рэдагаваць"
+    },
+    "account_version": {
+        "message": "Версія"
+    },
+    "account_signed": {
+        "message": "Увайшлі з дапамогай"
+    },
+    "account_free": {
+        "message": "Бясплатны"
+    },
+    "account_unlimited": {
+        "message": "Акаўнт"
+    },
+    "account_next_charge": {
+        "message": "(Наступная плата %date%)"
+    },
+    "account_sign_out": {
+        "message": "Выйсці"
+    },
+    "account_unlimited_title": {
+        "message": "Атрымайце безлімітную версію!"
+    },
+    "rate_description": {
+        "message": "Прывітанне, мы каманда AdGuard, і для нас вельмі важна ведаць вашу думку пра наш прадукт. Калі ласка, ацаніце яго."
+    },
+    "rate_hide": {
+        "message": "Схаваць"
+    },
+    "auth_confirm": {
+        "message": "Пацвердзіць"
+    },
+    "auth_email": {
+        "message": "Адрас электроннай пошты"
+    },
+    "auth_password": {
+        "message": "Пароль"
+    },
+    "auth_recover": {
+        "message": "Забылі пароль?"
+    },
+    "auth_sign_up": {
+        "message": "Зарэгістравацца"
+    },
+    "auth_sign_up_button": {
+        "message": "Зарэгістравацца"
+    },
+    "auth_sign_in": {
+        "message": "Увайсці"
+    },
+    "auth_sign_in_button": {
+        "message": "Увайсці"
+    },
+    "auth_sign_in_link": {
+        "message": "Увайсці з дапамогай акаўнта AdGuard"
+    },
+    "auth_title": {
+        "message": "Аўтарызацыя"
+    },
+    "auth_info": {
+        "message": "Працягнуць з дапамогай акаўнта AdGuard ці сацыяльных сетак"
+    },
+    "auth_sign_in_provider_apple": {
+        "message": "Працягнуць з Apple"
+    },
+    "auth_sign_in_provider_google": {
+        "message": "Працягнуць з Google"
+    },
+    "auth_sign_in_provider_facebook": {
+        "message": "Працягнуць з Facebook"
+    },
+    "auth_header_sign_in_account": {
+        "message": "Вы лагініцеся з дапамогай акаўнта AdGuard"
+    },
+    "auth_header_sign_up_create_account": {
+        "message": "Рэгіструючыся, вы ствараеце акаўнт AdGuard"
+    },
+    "auth_header_sign_in": {
+        "message": "Вы ўваходзіце як <div>%username%</div>"
+    },
+    "auth_header_sing_in_notice": {
+        "message": "У вас ужо ёсць акаўнт <div>%username%</div>"
+    },
+    "auth_header_registration": {
+        "message": "Вы рэгіструецеся як <div>%username%</div>"
+    },
+    "auth_header_2fa_subtitle": {
+        "message": "Двухфактарная аўтэнтыфікацыя"
+    },
+    "auth_header_2fa": {
+        "message": "Увядзіце код аўтэнтыфікацыі"
+    },
+    "auth_placeholder_2fa": {
+        "message": "Код аўтарызацыі"
+    },
+    "official_website": {
+        "message": "Афіцыйны сайт"
+    },
+    "eula": {
+        "message": "Ліцэнзійнае пагадненне"
+    },
+    "privacy_policy": {
+        "message": "Палітыка прыватнасці"
+    },
+    "settings_title": {
+        "message": "Налады"
+    },
+    "referral_get_free_traffic": {
+        "message": "Атрымаць дармовы трафік!"
+    },
+    "settings_referral_info": {
+        "message": "Запросіце сяброў далучыцца да нашага клана ніндзя і атрымайце больш за дармовы трафік на месяц. Па %your_gb% ГБ вам і %friend_gb% ГБ кожнаму вашаму сябру, які зарэгіструецца! Усяго можна атрымаць %total_gb% ГБ."
+    },
+    "settings_referral_invited_friends": {
+        "message": "Запрошаныя сябры %count%/%limit%"
+    },
+    "settings_referral_limit_reached": {
+        "message": "Вы ўжо атрымалі %your_gb% ГБ дармовага трафіка. Але вашы сябры ўсё яшчэ могуць атрымаць %friend_gb% ГБ дадатковага трафіка ў падарунак, калі вы запросіце іх!"
+    },
+    "settings_referral_copy_link": {
+        "message": "Скапіяваць спасылку"
+    },
+    "settings_referral_link_copied": {
+        "message": "Спасылка скапіявана"
+    },
+    "settings_rate_us": {
+        "message": "Ацаніце дадатак"
+    },
+    "settings_webrtc_label": {
+        "message": "Блакаваць WebRTC"
+    },
+    "settings_webrtc_desc": {
+        "message": "WebRTC — гэта адмысловая тэхналогія, што выкарыстоўваецца большасцю браўзараў, якая дазваляе кожнаму ўэб-сайту выявіць ваш рэальны IP-адрас і выкарыстоўваць яго для вашай ідэнтыфікацыі"
+    },
+    "settings_context_menus_title": {
+        "message": "Дадаць AdGuard у кантэкставае меню браўзара"
+    },
+    "settings_help_us_improve_title": {
+        "message": "Дапамажыце нам стаць лепш"
+    },
+    "settings_help_us_improve_description": {
+        "message": "Дазвольце AdGuard VPN збіраць справаздачы пра збоі, тэхнічныя дадзеныя і дадзеныя пра ўзаемадзеянне. Гэта ананімна."
+    },
+    "context_menu_selective_mode": {
+        "message": "Выбарковы рэжым"
+    },
+    "settings_dns_label": {
+        "message": "Абраны DNS-сервер"
+    },
+    "settings_dns_desc": {
+        "message": "DNS-сервера (Domain Name Servers) - гэта адрасная кніга Інтэрнэту. Яны ўтрымваюць усе назвы даменаў, і ўмеюць іх трансляваць іх у рэальныя IP-адрасы."
+    },
+    "settings_dns_selector_default_title": {
+        "message": "Прадвызначаны"
+    },
+    "settings_dns_selector_default_desc": {
+        "message": "Аўтаматычна выкарыстоўваць прадвызначаны DNS-сервер пры падлучэнні да VPN"
+    },
+    "settings_dns_selector_adguard_title": {
+        "message": "AdGuard DNS"
+    },
+    "settings_dns_selector_adguard_desc": {
+        "message": "Падаляе рэкламу і трэкеры з вашай прылады"
+    },
+    "settings_dns_selector_adguard_nonfiltering_title": {
+        "message": "AdGuard DNS Без фільтрацыі"
+    },
+    "settings_dns_selector_adguard_nonfiltering_desc": {
+        "message": "Бяспечны DNS-сервер без рэгістрацыі актыўнасці (не фільтруе рэкламу і трэкеры)"
+    },
+    "settings_dns_selector_adguard_family_title": {
+        "message": "AdGuard DNS з сямейнай абаронай"
+    },
+    "settings_dns_selector_adguard_family_desc": {
+        "message": "AdGuard DNS + бяспечны пошук і блакаванне кантэнту для дарослых"
+    },
+    "settings_dns_selector_google_title": {
+        "message": "Google DNS"
+    },
+    "settings_dns_selector_google_desc": {
+        "message": "Бясплатная альтэрнатыўная паслуга DNS ад Google"
+    },
+    "settings_dns_selector_cloudflare_title": {
+        "message": "Cloudflare DNS"
+    },
+    "settings_dns_selector_cloudflare_desc": {
+        "message": "Бясплатны сэрвіс DNS ад Cloudflare"
+    },
+    "settings_dns_selector_cisco_title": {
+        "message": "Cisco OpenDNS"
+    },
+    "settings_dns_selector_cisco_desc": {
+        "message": "DNS-сервер, што бароніць прыладу ад пагроз з сеціва"
+    },
+    "settings_dns_selector_quad9_title": {
+        "message": "Quad9"
+    },
+    "settings_dns_selector_quad9_desc": {
+        "message": "Бясплатны альтэрнатыўны DNS-сэрвіс з абаронай ад фішынгу і шпіёнскіх праграм"
+    },
+    "settings_theme_label": {
+        "message": "Тэма"
+    },
+    "settings_theme_system": {
+        "message": "Як у сістэме"
+    },
+    "settings_theme_dark": {
+        "message": "Цёмная"
+    },
+    "settings_theme_light": {
+        "message": "Светлая"
+    },
+    "settings_exclusion_add": {
+        "message": "ДАДАЦЬ"
+    },
+    "settings_exclusion_add_website": {
+        "message": "Дадаць сайт"
+    },
+    "settings_exclusion_actions": {
+        "message": "Дзеянні"
+    },
+    "settings_exclusion_add_subdomain": {
+        "message": "Дадаць паддамен"
+    },
+    "settings_exclusion_service_settings_subtitle_regular_mode": {
+        "message": "AdGuard VPN адключаны для даменаў, адзначаных галачкай"
+    },
+    "settings_exclusion_service_settings_subtitle_selective_mode": {
+        "message": "AdGuard VPN падлучаны для даменаў, адзначаных галачкай"
+    },
+    "settings_exclusion_group_settings_subtitle_regular_mode": {
+        "message": "AdGuard VPN адключаны для даменаў і паддаменаў, адзначаных галачкай"
+    },
+    "settings_exclusion_group_settings_subtitle_selective_mode": {
+        "message": "AdGuard VPN падлучаны для даменаў і паддаменаў, адзначаных галачкай"
+    },
+    "settings_exclusion_domain_name": {
+        "message": "Даменавае імя:"
+    },
+    "settings_exclusion_add_from_list": {
+        "message": "Са спіса"
+    },
+    "settings_exclusion_add_manually": {
+        "message": "Ручна"
+    },
+    "settings_exclusion_modal_cancel": {
+        "message": "Скасаванне"
+    },
+    "settings_exclusion_modal_remove": {
+        "message": "Выдаліць"
+    },
+    "settings_exclusion_modal_save": {
+        "message": "Захаваць"
+    },
+    "settings_exclusion_reset_to_default": {
+        "message": "Вярнуць налады да прадвызначаных"
+    },
+    "settings_exclusion_reset_button": {
+        "message": "Скінуць"
+    },
+    "settings_exclusions_undo": {
+        "message": "Скасаваць"
+    },
+    "settings_exclusion_placeholder_search": {
+        "message": "Пошук"
+    },
+    "settings_exclusion_connection_problem": {
+        "message": "Праблема злучэння"
+    },
+    "settings_exclusions_action_export": {
+        "message": "Экспартаваць выняткі"
+    },
+    "settings_exclusions_action_import": {
+        "message": "Імпартаваць выняткі"
+    },
+    "settings_exclusions_action_remove_all": {
+        "message": "Выдаліць усё"
+    },
+    "settings_exclusions_import_button": {
+        "message": "Імпарт"
+    },
+    "settings_exclusions_export_button": {
+        "message": "Экспарт"
+    },
+    "settings_exclusions_delete_button": {
+        "message": "Выдаліць усё"
+    },
+    "settings_exclusion_title": {
+        "message": "Выняткі"
+    },
+    "settings_connection_mode_title": {
+        "message": "Рэжым падлучэння"
+    },
+    "settings_exclusion_general_description": {
+        "message": "AdGuard VPN не будзе працаваць на сайтах са спіса выняткаў"
+    },
+    "settings_exclusion_selective_title": {
+        "message": "Выбарковы рэжым"
+    },
+    "settings_exclusion_selective_description": {
+        "message": "AdGuard VPN працуе толькі на сайтах з гэтага спіса"
+    },
+    "settings_exclusion_subdomains_title": {
+        "message": "Паддамены"
+    },
+    "settings_exclusion_subdomains_text": {
+        "message": "Вы можаце дадаваць дамены (напрыклад, google.com) ці ўсе паддамены (напрыклад, *.google.com)"
+    },
+    "global_error_title": {
+        "message": "Адбылася памылка"
+    },
+    "global_error_description": {
+        "message": "Калі ласка, звяжыцеся з намі, калі вы працягваеце бачыць гэта паведамленне"
+    },
+    "global_error_learn_more": {
+        "message": "Падрабязней"
+    },
+    "global_error_try_again": {
+        "message": "Паўтарыць спробу"
+    },
+    "authentication_successful_social": {
+        "message": "Паспяховая аўтэнтыфікацыя! Вы можаце адкрыць AdGuard VPN і падлучыць тунэль."
+    },
+    "control_error_description": {
+        "message": "Здаецца, што яшчэ адно пашырэнне Chrome спрабуе кантраляваць ваша злучэнне. Калі ласка, адключыце іншае пашырэнне ў вашым браўзары."
+    },
+    "control_error_disable": {
+        "message": "Адключыць"
+    },
+    "popup_settings_enable_vpn_short": {
+        "message": "Уключыць"
+    },
+    "popup_settings_disable_vpn": {
+        "message": "Адключыць VPN на гэтым сайце"
+    },
+    "popup_settings_other_products": {
+        "message": "Іншыя прадукты"
+    },
+    "popup_settings_feedback": {
+        "message": "Зваротная сувязь"
+    },
+    "popup_settings_open_settings": {
+        "message": "Налады"
+    },
+    "popup_settings_sign_out": {
+        "message": "Выйсці"
+    },
+    "context_menu_enable_vpn": {
+        "message": "Уключыць VPN на гэтым сайце"
+    },
+    "context_menu_disable_vpn": {
+        "message": "Адключыць VPN на гэтым сайце"
+    },
+    "endpoints_countries": {
+        "message": "Месцівы"
+    },
+    "endpoints_fastest": {
+        "message": "Самы хуткі"
+    },
+    "endpoints_all": {
+        "message": "Усе месцівы"
+    },
+    "endpoints_search_results": {
+        "message": "Вынікі пошуку"
+    },
+    "endpoints_search": {
+        "message": "Пошук месціва"
+    },
+    "endpoints_not_found": {
+        "message": "Сервер не знойдзены"
+    },
+    "popup_traffic_limit_reached": {
+        "message": "Штомесячны ліміт даных дасягнуты. Трэба больш?"
+    },
+    "premium_upgrade": {
+        "message": "Палепшыць"
+    },
+    "settings_disconnect": {
+        "message": "Адключыць"
+    },
+    "settings_vpn_connecting": {
+        "message": "Злучэнне..."
+    },
+    "settings_connect": {
+        "message": "Злучыць"
+    },
+    "settings_vpn_enabled": {
+        "message": "Злучаны"
+    },
+    "settings_vpn_disabled": {
+        "message": "Адключаны"
+    },
+    "popup_traffic_limit_exceeded_title": {
+        "message": "Хуткасць злучэння зніжана"
+    },
+    "popup_traffic_limit_exceeded_description": {
+        "message": "У вас скончыўся дармовы трафік, і зараз AdGuard VPN працуе павольна."
+    },
+    "popup_traffic_limit_exceeded_cta_btn": {
+        "message": "Павялічыць хуткасць"
+    },
+    "popup_feedback_title": {
+        "message": "Мы будзем рады ўбачыць ваш водгук"
+    },
+    "popup_feedback_button": {
+        "message": "Пакінуць водгук"
+    },
+    "settings_run_upgrade_early_bird": {
+        "message": "Адмысловыя цэны для першых пакупнікоў"
+    },
+    "sale_title": {
+        "message": "Што вы атрымаеце:"
+    },
+    "upgrade_features_data": {
+        "message": "Неабмежаваны трафік"
+    },
+    "upgrade_features_speed": {
+        "message": "Ультрахуткія серверы"
+    },
+    "upgrade_features_all_locations": {
+        "message": "Усе месцівы"
+    },
+    "upgrade_features_devices": {
+        "message": "Да 5 прылад"
+    },
+    "upgrade_features_streaming": {
+        "message": "Падтрымка стрымінгавых сэрвісаў"
+    },
+    "continue_us_free_button": {
+        "message": "Працягнуць дарма"
+    },
+    "options_title": {
+        "message": "Налады AdGuard VPN"
+    },
+    "offline_title": {
+        "message": "Афлайн"
+    },
+    "popup_site_status_unaccessible": {
+        "message": "знаходзіцца ў вашай лакальным сецiве і недаступны праз VPN"
+    },
+    "popup_site_status_vpn_disabled": {
+        "message": "VPN адключаны на гэтым сайце"
+    },
+    "popup_auth_policy_agreement": {
+        "message": "Прыняць <eula>Ліцэнзійнае пагадненне</eula> і <privacy>Палітыку прыватнасці</privacy>",
+        "description": "WARNING! Respect spaces between tags"
+    },
+    "popup_auth_help_us_improve_agreement": {
+        "message": "Дазволіць AdGuard збіраць <link>некаторыя строга ананімныя даныя</link> пра выкарыстанне дадатку, каб зрабіць AdGuard VPN лепш"
+    },
+    "popup_auth_policy_agreement_continue_button": {
+        "message": "Працягнуць"
+    },
+    "popup_newsletter_title": {
+        "message": "Навіны ад AdGuard"
+    },
+    "popup_newsletter_info": {
+        "message": "Дасылаць мне адмысловыя прапановы і навіны AdGuard"
+    },
+    "popup_newsletter_subscribe": {
+        "message": "ПАЧАЦЬ ПРОБНЫ ПЕРЫЯД"
+    },
+    "popup_newsletter_no_subscribe": {
+        "message": "Не, дзякуй"
+    },
+    "popup_onboarding_trusted_vpn": {
+        "message": "Надзейны VPN"
+    },
+    "popup_onboarding_trusted_vpn_info": {
+        "message": "Ад распрацоўшчыка знакамітага блакавальніка рэкламы"
+    },
+    "popup_onboarding_numerous_locations": {
+        "message": "Мноства лакацый"
+    },
+    "popup_onboarding_numerous_locations_info": {
+        "message": "Падлучайцеся да кожнага з сервераў, змесцаваных па ўсім свеце"
+    },
+    "popup_onboarding_fastest_servers": {
+        "message": "Самыя хуткія серверы"
+    },
+    "popup_onboarding_fastest_servers_info": {
+        "message": "Мы выкарыстоўваем перадавыя тэхналогіі, каб гарантаваць высокую хуткасць злучэння"
+    },
+    "popup_onboarding_next": {
+        "message": "Далей"
+    },
+    "popup_upgrade_screen_title": {
+        "message": "Безлімітны VPN"
+    },
+    "popup_upgrade_screen_unlimited_data": {
+        "message": "Неабмежаваны трафік"
+    },
+    "popup_upgrade_screen_unlimited_data_desc": {
+        "message": "Адзінае абмежаванне палягае ў тым, што вашы даныя ніколі \nне перадаюцца. Займайцеся сёрфінгам колькі душа жадае!"
+    },
+    "popup_upgrade_screen_unlimited_speed": {
+        "message": "усе лакацыі, падтрымка 24/7"
+    },
+    "popup_upgrade_screen_unlimited_speed_desc": {
+        "message": "Ніякіх абмежаванняў хуткасці. Атрымайце максімум магчымасцяў вашага правайдара!"
+    },
+    "popup_upgrade_screen_all_locations": {
+        "message": "Усе месцівы"
+    },
+    "popup_upgrade_screen_all_locations_desc": {
+        "message": "6 кантынентаў і дзясяткі краін. Абярыце горад і карыстайцеся інтэрнэтам бяспечна!"
+    },
+    "popup_upgrade_screen_streaming_support": {
+        "message": "Падтрымка струменевай перадачы"
+    },
+    "popup_upgrade_screen_streaming_support_desc": {
+        "message": "Даступныя ўсе галоўныя стрымінгавыя сэрвісы. Глядзі што хочаш і дзе хочаш!"
+    },
+    "popup_upgrade_screen_streaming": {
+        "message": "Струменевая перадача"
+    },
+    "popup_upgrade_screen_upgrade_button": {
+        "message": "Палепшыць"
+    },
+    "popup_upgrade_screen_continue_free": {
+        "message": "Працягнуць дарма"
+    },
+    "popup_free_traffic_info": {
+        "message": "<span>%value% %unit%</span> засталося ў гэтым месяцы",
+        "description": "Respect spaces between text, tags and placeholders"
+    },
+    "options_selective_mode_popup_message": {
+        "message": "У выбарковым рэжыме AdGuard VPN працуе толькі на дазволеных сайтах, якія вы дадалі ў спіс."
+    },
+    "options_selective_mode_popup_button_switch_now": {
+        "message": "Перамкнуць зараз"
+    },
+    "options_selective_mode_popup_attention": {
+        "message": "Ты ўпэўнены, што хочаш перамкнуць?"
+    },
+    "options_exclusions_import_select_title": {
+        "message": "Імпартаваць выняткі ў:"
+    },
+    "options_exclusions_import_select_regular": {
+        "message": "Звычайны спіс"
+    },
+    "options_exclusions_import_select_selective": {
+        "message": "Выбарковы спіс"
+    },
+    "options_exclusions_delete_cancel_button": {
+        "message": "Скасаваць"
+    },
+    "options_exclusions_delete_approve_button": {
+        "message": "Выдаліць"
+    },
+    "options_exclusions_delete_title": {
+        "message": "Выдаліць выняткі"
+    },
+    "options_exclusions_delete_regular_description": {
+        "message": "Усе выняткі са Звычайнага рэжыму будуць выдалены."
+    },
+    "options_exclusions_delete_selective_description": {
+        "message": "Усе выняткі з Выбарковага рэжыму будуць выдалены."
+    },
+    "options_exclusions_import_successful": {
+        "message": "Імпартаваныя выняткі: %count%"
+    },
+    "options_exclusions_import_error_wrong_extensions": {
+        "message": "У файла з выняткамі павінна быць адно з пашырэнняў: %extensions%"
+    },
+    "options_exclusions_import_error_wrong_extensions_in_zip": {
+        "message": "Zip-архіў: \"%filename%\" не ўтрымвае файлаў з пашырэннямі: %extensions%"
+    },
+    "popup_connections_limit_description_start": {
+        "message": "Дасягнута максімальная колькасць падлучэнняў: %maxDevicesAllowed%."
+    },
+    "popup_connections_limit_description_end_free": {
+        "message": "Каб дадаць больш прылад, аформіце падпіску на AdGuard VPN."
+    },
+    "popup_connections_limit_description_end_premium": {
+        "message": "Каб дадаць яшчэ адну прыладу, адключыце AdGuard VPN на кожнай іншай прыладзе."
+    },
+    "popup_connections_limit_description_cta_button_free": {
+        "message": "Падпісаццца"
+    },
+    "popup_connections_limit_description_cta_button_premium": {
+        "message": "Падрабязней"
+    },
+    "popup_connections_limit_title": {
+        "message": "Дасягнуты ліміт падлучэнняў"
+    },
+    "popup_desktop_vpn_enabled_title": {
+        "message": "Вы ўжо падлучаны да AdGuard VPN"
+    },
+    "popup_desktop_vpn_enabled_description": {
+        "message": "AdGuard VPN працуе ў дэсктопным дадатку, таму браўзарнае пашырэнне было аўтаматычна адключана"
+    },
+    "popup_desktop_vpn_enabled_button": {
+        "message": "Ok"
+    },
+    "options_signedout_page_title": {
+        "message": "Вы выйшлі з AdGuard VPN"
+    },
+    "options_signedout_page_description": {
+        "message": "Звярніце ўвагу, што злучэнне не абаронена. Каб працягнуць карыстацца інтэрнэтам бяспечна, націсніце на іконку AdGuard VPN і зноў увайдзіце ў дадатак."
+    },
+    "name": {
+        "message": "AdGuard VPN — free & secure proxy"
+    },
+    "description": {
+        "message": "Use AdGuard VPN to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private vpn proxy."
+    }
+}

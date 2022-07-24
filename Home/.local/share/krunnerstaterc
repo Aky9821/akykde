@@ -1,0 +1,6 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 exec:///usr/bin/terminator,1 exec:///usr/bin/gparted,1 exec:///usr/bin/github-desktop
+migrated=true
+
+[PlasmaRunnerManager][History]
+74e8f0b8-ce46-4326-beff-6919963ebeb1=

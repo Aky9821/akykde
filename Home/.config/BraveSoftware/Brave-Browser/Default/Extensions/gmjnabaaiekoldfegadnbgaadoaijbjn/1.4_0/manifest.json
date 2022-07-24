@@ -1,0 +1,30 @@
+{
+   "description": "The dark VS Code GitHub Theme.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgeqvXBka3L3vZGjMpyLVSOQVB9FSC8w9xbUlf3T84k4uih0aFKCoqCexEb0ULeteAf7+/czZJHh50eNfXgW3h/DnyeHngMrmNedZcqSrs+vnsuDzqWGxGnVw8OMEPBqDvV0e/mxUr9z/u/klF8MOh+CcFetugfN2bJ6Zz5U6GRPz0AD1jaglV3cTHxZP+pZ/gBzvOuNeNSjAvs/+jv3lpXXl3pUiYWPjcKr/GKzY+/OMmkCKcxosCuz9M428Pxrsm5MAqa5+rVbHv8EcG9jsTheqKJEUEMpeUGXk94tAIf3C3naQxEKPr/g1ASD/yLcDnzLJJpnaAqz73Bjs0lKvEwIDAQAB",
+   "manifest_version": 3,
+   "name": "Dark VS Code GitHub Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 134, 141, 149 ],
+         "button_background": [ 31, 36, 40, 1 ],
+         "frame": [ 255, 255, 255 ],
+         "ntp_background": [ 36, 41, 46 ],
+         "ntp_link": [ 134, 141, 149 ],
+         "ntp_text": [ 134, 141, 149 ],
+         "tab_background_text": [ 134, 141, 149 ],
+         "tab_text": [ 249, 130, 108 ],
+         "toolbar": [ 36, 41, 46 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "tints": {
+         "buttons": [ 0.59, 0.13, 0.9 ],
+         "frame_inactive": [ 0.58, 0.13, 0.5 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=script.sh
+Type=Link
+URL[$e]=file:$HOME/akylinuxkde/script.sh
+X-KDE-LastOpenedWith=org.kde.kate

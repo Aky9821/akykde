@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "You can easily convert your documents to PDF format. PDF converter to convert documents like Word, Excel or Images to PDF."
+   },
+   "ext_description2": {
+      "message": "आप आसानी से पीडीएफ प्रारूप करने के लिए अपने दस्तावेज़ों में बदल सकते हैं. यह नि: शुल्क है."
+   },
+   "ext_description3": {
+      "message": "वर्ड, एक्सेल या पीडीएफ के लिए छवियों की तरह दस्तावेज़ों कन्वर्ट करने के लिए पीडीएफ कनवर्टर."
+   },
+   "ext_description4": {
+      "message": "पीडीएफ बनाए जाने के बाद यह ईमेल के माध्यम से आप के लिए भेजा जाएगा."
+   },
+   "ext_description5": {
+      "message": "फ़ाइलें स्थानीय फाइल सिस्टम से browsed या दस्तावेज़ के लिए URL प्रदान किया जा सकता है. (पूर्व: एक वेब पेज के लिए यूआरएल)"
+   },
+   "ext_name": {
+      "message": "पीडीएफ कनवर्टर"
+   },
+   "msg_choosedoc": {
+      "message": "एक दस्तावेज़ चुनें"
+   },
+   "msg_convertsend": {
+      "message": "कन्वर्ट और भेजें"
+   },
+   "msg_default": {
+      "message": "डिफ़ॉल्ट"
+   },
+   "msg_docurl": {
+      "message": "दस्तावेज़ URL"
+   },
+   "msg_email": {
+      "message": "ईमेल"
+   },
+   "msg_enteremail": {
+      "message": "एक अपने ईमेल दर्ज करें."
+   },
+   "msg_notemail": {
+      "message": "यह एक वैध ईमेल पता नहीं है."
+   },
+   "msg_noturl": {
+      "message": "यह एक मान्य URL नहीं है."
+   },
+   "msg_plzchoosedoc": {
+      "message": "एक दस्तावेज़ का चयन करें."
+   },
+   "msg_sellang": {
+      "message": "भाषा का चयन करें"
+   },
+   "msg_sentemail": {
+      "message": "पीडीएफ फाइल इस ई मेल पते पर भेजा जाएगा"
+   },
+   "msg_spcifyurldoc": {
+      "message": "दस्तावेज का यूआरएल निर्दिष्ट करें"
+   },
+   "msg_supportformat": {
+      "message": "पीडीएफ कनवर्टर निम्नलिखित दस्तावेज़ स्वरूपों का समर्थन करता है"
+   },
+   "msg_uploaddoc": {
+      "message": "दस्तावेज़ अपलोड करें"
+   }
+}

@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF konvertor pro převod dokumentů, jako je Word, Excel nebo obrázky do formátu PDF."
+   },
+   "ext_description2": {
+      "message": "Můžete snadno převést dokumenty do formátu PDF. Je to zdarma."
+   },
+   "ext_description3": {
+      "message": "PDF konvertor pro převod dokumentů, jako je Word, Excel nebo obrázky do formátu PDF."
+   },
+   "ext_description4": {
+      "message": "Po PDF je vytvořen, bude vám zaslán e-mailem."
+   },
+   "ext_description5": {
+      "message": "Soubory lze prohlížet z místního systému souborů nebo poskytnout adresu URL dokumentu. (Ex: URL pro webové stránky)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Vyberte si dokument"
+   },
+   "msg_convertsend": {
+      "message": "Převod a Send"
+   },
+   "msg_default": {
+      "message": "Výchozí"
+   },
+   "msg_docurl": {
+      "message": "Tento dokument URL"
+   },
+   "msg_email": {
+      "message": "E-mail"
+   },
+   "msg_enteremail": {
+      "message": "Prosím, zadejte svůj e-mail."
+   },
+   "msg_notemail": {
+      "message": "To není platná e-mailová adresa."
+   },
+   "msg_noturl": {
+      "message": "To není platné URL."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Prosím, vyberte dokument."
+   },
+   "msg_sellang": {
+      "message": "Vyberte jazyk"
+   },
+   "msg_sentemail": {
+      "message": "Soubor pdf bude zaslán na tuto e-mailovou adresu"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Prosím, zadejte adresu URL dokumentu"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter podporuje následující formáty dokumentů"
+   },
+   "msg_uploaddoc": {
+      "message": "Přidat dokument"
+   }
+}

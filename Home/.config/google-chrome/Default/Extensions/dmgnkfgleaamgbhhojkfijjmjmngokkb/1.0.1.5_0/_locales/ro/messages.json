@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "Convertor PDF pentru a converti documente cum ar fi Word, Excel sau imagini în PDF."
+   },
+   "ext_description2": {
+      "message": "Puteți converti cu ușurință documentele în format PDF. Este gratuit."
+   },
+   "ext_description3": {
+      "message": "Convertor PDF pentru a converti documente cum ar fi Word, Excel sau imagini în PDF."
+   },
+   "ext_description4": {
+      "message": "După ce este creat PDF, va fi trimis la tine prin e-mail."
+   },
+   "ext_description5": {
+      "message": "Fișierele pot fi accesate de sistemul de fișiere local sau furniza URL pentru document. (Ex: URL pentru o pagină web)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Alege un document"
+   },
+   "msg_convertsend": {
+      "message": "Conversia și Send"
+   },
+   "msg_default": {
+      "message": "Implicit"
+   },
+   "msg_docurl": {
+      "message": "Documentul URL-ul"
+   },
+   "msg_email": {
+      "message": "E-mail"
+   },
+   "msg_enteremail": {
+      "message": "Va rugam sa introduceti o adresa dvs. de email."
+   },
+   "msg_notemail": {
+      "message": "Aceasta nu este o adresa de email valida."
+   },
+   "msg_noturl": {
+      "message": "Aceasta nu este o adresă URL validă."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Vă rugăm să alegeți un document."
+   },
+   "msg_sellang": {
+      "message": "Alege limba"
+   },
+   "msg_sentemail": {
+      "message": "Fișier pdf vor fi trimise la această adresă de e-mail"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Vă rugăm să specificați adresa URL a documentului"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter suportă următoarele formate de documente"
+   },
+   "msg_uploaddoc": {
+      "message": "Încarcă documentul"
+   }
+}

@@ -1,0 +1,8 @@
+[General]
+ColorScheme=Deepin2022Dark
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+widgetStyle=Breeze

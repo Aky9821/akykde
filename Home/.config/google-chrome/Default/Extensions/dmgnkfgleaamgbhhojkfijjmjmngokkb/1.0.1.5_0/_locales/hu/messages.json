@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF-átalakító-hoz megtérít dokumentumok, mint a Word, az Excel vagy a Képek PDF."
+   },
+   "ext_description2": {
+      "message": "Könnyen konvertálni a dokumentumok PDF formátumban. Ez ingyenes."
+   },
+   "ext_description3": {
+      "message": "PDF-átalakító-hoz megtérít dokumentumok, mint a Word, az Excel vagy a Képek PDF."
+   },
+   "ext_description4": {
+      "message": "Miután a PDF jön létre, meg kell küldeni e-mailben."
+   },
+   "ext_description5": {
+      "message": "Fájlok lehet böngészni a helyi fájlrendszer vagy biztosítják URL a dokumentum. (Pl.: URL egy weboldalt)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Válassza ki a dokumentum"
+   },
+   "msg_convertsend": {
+      "message": "Átalakítás és Send"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "A dokumentum URL"
+   },
+   "msg_email": {
+      "message": "E-mail"
+   },
+   "msg_enteremail": {
+      "message": "Adjon meg egy e-mail."
+   },
+   "msg_notemail": {
+      "message": "Ez nem egy érvényes e-mail címét."
+   },
+   "msg_noturl": {
+      "message": "Ez nem egy érvényes URL-t."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Kérem válasszon egy dokumentumot."
+   },
+   "msg_sellang": {
+      "message": "Nyelv kiválasztása"
+   },
+   "msg_sentemail": {
+      "message": "A pdf-fájl fog küldeni az e-mail cím"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Kérjük, adja meg az URL-t a dokumentum"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter támogatja a következő dokumentum formátumokat"
+   },
+   "msg_uploaddoc": {
+      "message": "Dokumentum feltöltése"
+   }
+}

@@ -1,0 +1,62 @@
+﻿{
+   "ext_name": {
+      "message": "PDF轉換"
+   },
+   "ext_description": {
+      "message": "您可以輕鬆地將您的文件轉換為PDF格式。 PDF文件，如Word，Excel或圖片PDF轉換器轉換成。"
+   },
+   "ext_description2": {
+      "message": "您可以輕鬆地將您的文件轉換為PDF格式。它是免費的。"
+   },
+   "ext_description3": {
+      "message": "PDF文件，如Word，Excel或圖片PDF轉換器轉換成。"
+   },
+   "ext_description4": {
+      "message": "PDF創建後，它會通過電子郵件向您發送。"
+   },
+   "ext_description5": {
+      "message": "可以瀏覽文件從本地文件系統或提供的文件的URL。 （例如：一個網頁的URL）"
+   },
+   "msg_uploaddoc": {
+      "message": "上傳文件"
+   },
+   "msg_choosedoc": {
+      "message": "選擇文件"
+   },
+   "msg_sentemail": {
+      "message": "PDF文件將被發送到該E-mail地址"
+   },
+   "msg_docurl": {
+      "message": "該文件的URL"
+   },
+   "msg_spcifyurldoc": {
+      "message": "請指定該文件的url"
+   },
+   "msg_convertsend": {
+      "message": "轉換並發送"
+   },
+   "msg_supportformat": {
+      "message": "PDF轉換器支持以下文件格式"
+   },
+   "msg_sellang": {
+      "message": "選擇語言"
+   },
+   "msg_default": {
+      "message": "默認"
+   },
+   "msg_email": {
+      "message": "電子郵件"
+   },
+   "msg_enteremail": {
+      "message": "請輸入您的電子郵件。"
+   },
+   "msg_notemail": {
+      "message": "這不是一個有效的電子郵件地址。"
+   },
+   "msg_noturl": {
+      "message": "這不是一個有效的網址。"
+   },
+   "msg_plzchoosedoc": {
+      "message": "請選擇一個文件。"
+   }
+}

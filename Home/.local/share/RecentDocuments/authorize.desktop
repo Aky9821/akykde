@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-html
+Name=authorize
+Type=Link
+URL[$e]=https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&redirect_uri=https://vscode.dev/redirect&scope=user:email&state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dd81cb4af-554b-45e7-bcf2-012caab71fa6%2526windowId%253D1
+X-KDE-LastOpenedWith=brave-browser

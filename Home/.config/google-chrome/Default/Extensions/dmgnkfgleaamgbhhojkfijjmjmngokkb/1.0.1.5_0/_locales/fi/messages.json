@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "Voit helposti muuntaa asiakirjoja PDF-muodossa. PDF Converter muuntaa asiakirjoja, kuten Word-, Excel-tai Kuvien PDF."
+   },
+   "ext_description2": {
+      "message": "Voit helposti muuntaa asiakirjoja PDF-muodossa. Se on ilmaista."
+   },
+   "ext_description3": {
+      "message": "PDF Converter muuntaa asiakirjoja, kuten Word-, Excel-tai Kuvien PDF."
+   },
+   "ext_description4": {
+      "message": "Kun PDF on luotu se lähetetään sinulle sähköpostitse."
+   },
+   "ext_description5": {
+      "message": "Tiedostot voidaan selailtaviksi paikallisen tiedostojärjestelmän tai antaa URL asiakirja. (Ex: URL Web-sivun)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Valitse asiakirjan"
+   },
+   "msg_convertsend": {
+      "message": "Convert ja Send"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "Asiakirjan URL"
+   },
+   "msg_email": {
+      "message": "Sähköposti"
+   },
+   "msg_enteremail": {
+      "message": "Syötä sähköpostiosoitteesi."
+   },
+   "msg_notemail": {
+      "message": "Se ei ole voimassa oleva sähköpostiosoite."
+   },
+   "msg_noturl": {
+      "message": "Se ei ole kelvollinen URL-osoite."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Valitse asiakirja."
+   },
+   "msg_sellang": {
+      "message": "Valitse kieli"
+   },
+   "msg_sentemail": {
+      "message": "Pdf-tiedosto lähetetään tähän sähköpostiosoitteeseen"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Ilmoittakaa url asiakirjan"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter tukee seuraavia tiedostomuotoja"
+   },
+   "msg_uploaddoc": {
+      "message": "Lataa asiakirja"
+   }
+}

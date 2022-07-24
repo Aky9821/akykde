@@ -1,0 +1,784 @@
+{
+   "about_title": {
+      "message": "О программе"
+   },
+   "account_current_plan": {
+      "message": "Текущий план"
+   },
+   "account_edit": {
+      "message": "Управлять"
+   },
+   "account_free": {
+      "message": "Бесплатный"
+   },
+   "account_next_charge": {
+      "message": "(Следующий платёж %date%)"
+   },
+   "account_sign_out": {
+      "message": "Выйти"
+   },
+   "account_signed": {
+      "message": "Вы вошли, используя почту"
+   },
+   "account_title": {
+      "message": "Аккаунт"
+   },
+   "account_unlimited": {
+      "message": "Безлимитный"
+   },
+   "account_unlimited_title": {
+      "message": "Получите безлимитную версию!"
+   },
+   "account_version": {
+      "message": "Версия"
+   },
+   "auth_confirm": {
+      "message": "Подтвердить"
+   },
+   "auth_email": {
+      "message": "Email-адрес"
+   },
+   "auth_header_2fa": {
+      "message": "Введите код аутентификации"
+   },
+   "auth_header_2fa_subtitle": {
+      "message": "Двухфакторная аутентификация"
+   },
+   "auth_header_registration": {
+      "message": "Вы регистрируетесь как \u003Cdiv>%username%\u003C/div>"
+   },
+   "auth_header_sign_in": {
+      "message": "Вы авторизуетесь как \u003Cdiv>%username%\u003C/div>"
+   },
+   "auth_header_sign_in_account": {
+      "message": "Вы авторизуетесь с помощью аккаунта AdGuard"
+   },
+   "auth_header_sign_up_create_account": {
+      "message": "Регистрируясь, вы создаете аккаунт AdGuard"
+   },
+   "auth_header_sing_in_notice": {
+      "message": "У вас уже есть аккаунт \u003Cdiv>%username%\u003C/div>"
+   },
+   "auth_info": {
+      "message": "Войти через аккаунт AdGuard или через социальные сети"
+   },
+   "auth_password": {
+      "message": "Пароль"
+   },
+   "auth_placeholder_2fa": {
+      "message": "Код аутентификации"
+   },
+   "auth_recover": {
+      "message": "Забыли пароль?"
+   },
+   "auth_sign_in": {
+      "message": "Вход в систему"
+   },
+   "auth_sign_in_button": {
+      "message": "Войти"
+   },
+   "auth_sign_in_link": {
+      "message": "Войти с помощью аккаунта AdGuard"
+   },
+   "auth_sign_in_provider_adguard": {
+      "message": "Войти с помощью почты"
+   },
+   "auth_sign_in_provider_apple": {
+      "message": "Войти через Apple"
+   },
+   "auth_sign_in_provider_facebook": {
+      "message": "Войти через Facebook"
+   },
+   "auth_sign_in_provider_google": {
+      "message": "Войти через Google"
+   },
+   "auth_sign_up": {
+      "message": "Регистрация"
+   },
+   "auth_sign_up_button": {
+      "message": "Зарегистрироваться"
+   },
+   "auth_title": {
+      "message": "Авторизация"
+   },
+   "authentication_error_2fa_invalid": {
+      "message": "Некорректный код"
+   },
+   "authentication_error_2fa_required": {
+      "message": "Требуется 2FA-код"
+   },
+   "authentication_error_account_disabled": {
+      "message": "Аккаунт отключен"
+   },
+   "authentication_error_account_locked": {
+      "message": "Аккаунт заблокирован на 15 минут"
+   },
+   "authentication_error_default": {
+      "message": "Произошла ошибка. Попробуйте позже"
+   },
+   "authentication_error_wrong_credentials": {
+      "message": "Неверный пароль"
+   },
+   "authentication_successful_social": {
+      "message": "Успешная аутентификация! Можете открыть AdGuard VPN и начать им пользоваться."
+   },
+   "authentication_too_many_requests": {
+      "message": "Мы получили слишком много запросов с вашего IP-адреса. Пожалуйста, попробуйте позже."
+   },
+   "context_menu_disable_vpn": {
+      "message": "Не использовать VPN на этом сайте"
+   },
+   "context_menu_enable_vpn": {
+      "message": "Включить VPN на этом сайте"
+   },
+   "context_menu_general_mode": {
+      "message": "Основной режим"
+   },
+   "context_menu_selective_mode": {
+      "message": "Выборочный режим"
+   },
+   "continue_us_free_button": {
+      "message": "Продолжить бесплатно"
+   },
+   "control_error_description": {
+      "message": "Похоже, что еще одно расширение Chrome пытается контролировать ваше соединение. Пожалуйста, отключите другое расширение в вашем браузере."
+   },
+   "control_error_disable": {
+      "message": "Отключить"
+   },
+   "description": {
+      "message": "Анонимайзер AdGuard VPN для быстрого и безопасного сёрфинга в интернете. Скройте IP и сохраняйте анонимность в Сети с proxy-сервером AdGuard VPN."
+   },
+   "endpoints_all": {
+      "message": "Все локации"
+   },
+   "endpoints_countries": {
+      "message": "Локации"
+   },
+   "endpoints_fastest": {
+      "message": "Самые быстрые"
+   },
+   "endpoints_not_found": {
+      "message": "Локация не найдена"
+   },
+   "endpoints_search": {
+      "message": "Поиск локации"
+   },
+   "endpoints_search_results": {
+      "message": "Результаты поиска"
+   },
+   "eula": {
+      "message": "Лицензионное соглашение"
+   },
+   "global_error_description": {
+      "message": "Пожалуйста, свяжитесь с нами, если вы продолжаете видеть это сообщение"
+   },
+   "global_error_learn_more": {
+      "message": "Подробнее"
+   },
+   "global_error_message": {
+      "message": "Произошла ошибка, пожалуйста, свяжитесь с нами по адресу \u003Ca>support@adguard-vpn.com\u003C/a>."
+   },
+   "global_error_title": {
+      "message": "Произошла ошибка"
+   },
+   "global_error_try_again": {
+      "message": "Попробовать снова"
+   },
+   "name": {
+      "message": "AdGuard VPN — быстрый и безопасный proxy"
+   },
+   "official_website": {
+      "message": "Официальный сайт"
+   },
+   "offline_title": {
+      "message": "Оффлайн"
+   },
+   "options_bug_report_email_invalid": {
+      "message": "Неправильный адрес почты"
+   },
+   "options_bug_report_email_label": {
+      "message": "Email"
+   },
+   "options_bug_report_include_log_label": {
+      "message": "Включить в сообщение диагностический отчет"
+   },
+   "options_bug_report_new_report_button": {
+      "message": "Новый отчет"
+   },
+   "options_bug_report_page_success": {
+      "message": "Спасибо, ваше сообщение отправлено!"
+   },
+   "options_bug_report_request_error": {
+      "message": "Произошла ошибка. Попробуйте позже."
+   },
+   "options_bug_report_send_button": {
+      "message": "Отправить"
+   },
+   "options_bug_report_sending_button": {
+      "message": "Отправка..."
+   },
+   "options_bug_report_textarea_invalid": {
+      "message": "Поле обязательно для заполнения"
+   },
+   "options_bug_report_textarea_label": {
+      "message": "Текст сообщения"
+   },
+   "options_bug_report_textarea_placeholder": {
+      "message": "Опишите найденную ошибку..."
+   },
+   "options_exclusions_added_exclusions": {
+      "message": "Добавленные исключения: %count%"
+   },
+   "options_exclusions_delete_approve_button": {
+      "message": "Удалить"
+   },
+   "options_exclusions_delete_cancel_button": {
+      "message": "Отмена"
+   },
+   "options_exclusions_delete_regular_description": {
+      "message": "Все исключения из Обычного режима будут удалены."
+   },
+   "options_exclusions_delete_selective_description": {
+      "message": "Все исключения из Выборочного режима будут удалены."
+   },
+   "options_exclusions_delete_title": {
+      "message": "Удалить исключения"
+   },
+   "options_exclusions_deleted_exclusions": {
+      "message": "Удалённые исключения: %count%"
+   },
+   "options_exclusions_import_error_wrong_extensions": {
+      "message": "У файла с исключениями должно быть одно из расширений: %extensions%"
+   },
+   "options_exclusions_import_error_wrong_extensions_in_zip": {
+      "message": "Zip-архив: «%filename%» не содержит файлов с расширениями: %extensions%"
+   },
+   "options_exclusions_import_select_regular": {
+      "message": "Обычный список"
+   },
+   "options_exclusions_import_select_selective": {
+      "message": "Выборочный список"
+   },
+   "options_exclusions_import_select_title": {
+      "message": "Импортировать исключения в:"
+   },
+   "options_exclusions_import_successful": {
+      "message": "Импортированные исключения: %count%"
+   },
+   "options_exclusions_remove_all_success": {
+      "message": "Все исключения для текущего режима успешно удалены."
+   },
+   "options_menu_free_traffic": {
+      "message": "Бесплатный VPN-трафик"
+   },
+   "options_report_bug_title": {
+      "message": "Сообщить об ошибке"
+   },
+   "options_selective_mode_popup_attention": {
+      "message": "Вы уверены, что хотите переключиться?"
+   },
+   "options_selective_mode_popup_button_switch_now": {
+      "message": "Переключить сейчас"
+   },
+   "options_selective_mode_popup_message": {
+      "message": "В Выборочном режиме AdGuard VPN работает только на разрешённых сайтах, которые вы добавили в список."
+   },
+   "options_signedout_page_description": {
+      "message": "Обратите внимание, что соединение не защищено. Чтобы продолжить пользоваться интернетом безопасно, нажмите на иконку AdGuard VPN и снова войдите в приложение."
+   },
+   "options_signedout_page_title": {
+      "message": "Вы вышли из AdGuard VPN"
+   },
+   "options_support_faq_description": {
+      "message": "Вопросы и ответы"
+   },
+   "options_support_faq_title": {
+      "message": "FAQ"
+   },
+   "options_support_feedback_description": {
+      "message": "Отправить запрос на новую функцию или другое предложение"
+   },
+   "options_support_feedback_title": {
+      "message": "Оставить отзыв"
+   },
+   "options_support_report_description": {
+      "message": "Отправить отчёт об ошибке"
+   },
+   "options_support_report_title": {
+      "message": "Сообщить об ошибке"
+   },
+   "options_support_title": {
+      "message": "Поддержка"
+   },
+   "options_title": {
+      "message": "Опции AdGuard VPN"
+   },
+   "popup_auth_help_us_improve_agreement": {
+      "message": "Разрешить AdGuard собирать \u003Clink>анонимные данные\u003C/link> об использовании приложения, чтобы сделать AdGuard VPN лучше"
+   },
+   "popup_auth_policy_agreement": {
+      "description": "WARNING! Respect spaces between tags",
+      "message": "Принять \u003Ceula>Лицензионное соглашение\u003C/eula> и \u003Cprivacy>Политику конфиденциальности\u003C/privacy>"
+   },
+   "popup_auth_policy_agreement_continue_button": {
+      "message": "Продолжить"
+   },
+   "popup_connections_limit_description_cta_button_free": {
+      "message": "Подписаться"
+   },
+   "popup_connections_limit_description_cta_button_premium": {
+      "message": "Подробнее"
+   },
+   "popup_connections_limit_description_end_free": {
+      "message": "Чтобы добавить больше устройств, оформите подписку на AdGuard VPN."
+   },
+   "popup_connections_limit_description_end_premium": {
+      "message": "Чтобы добавить еще одно устройство, отключите AdGuard VPN на любом другом устройстве."
+   },
+   "popup_connections_limit_description_start": {
+      "message": "Достигнуто максимальное количество подключений: %maxDevicesAllowed%."
+   },
+   "popup_connections_limit_title": {
+      "message": "Достигнут лимит подключений"
+   },
+   "popup_desktop_vpn_enabled_button": {
+      "message": "Ок"
+   },
+   "popup_desktop_vpn_enabled_description": {
+      "message": "AdGuard VPN работает в десктопном приложении, поэтому браузерное расширение было автоматически отключено"
+   },
+   "popup_desktop_vpn_enabled_title": {
+      "message": "Вы уже подключены к AdGuard VPN"
+   },
+   "popup_feedback_button": {
+      "message": "Оставить отзыв"
+   },
+   "popup_feedback_title": {
+      "message": "Мы будем рады увидеть ваш отзыв"
+   },
+   "popup_free_traffic_info": {
+      "description": "Respect spaces between text, tags and placeholders",
+      "message": "\u003Cspan>%value% %unit%\u003C/span> осталось в этом месяце"
+   },
+   "popup_newsletter_info": {
+      "message": "Получать специальные предложения и новости AdGuard"
+   },
+   "popup_newsletter_no_subscribe": {
+      "message": "Нет, спасибо"
+   },
+   "popup_newsletter_subscribe": {
+      "message": "Подписаться"
+   },
+   "popup_newsletter_title": {
+      "message": "Рассылка AdGuard"
+   },
+   "popup_onboarding_fastest_servers": {
+      "message": "Cамые быстрые серверы"
+   },
+   "popup_onboarding_fastest_servers_info": {
+      "message": "Мы используем передовые технологии, чтобы гарантировать высокую скорость соединения"
+   },
+   "popup_onboarding_next": {
+      "message": "Далее"
+   },
+   "popup_onboarding_numerous_locations": {
+      "message": "Множество локаций"
+   },
+   "popup_onboarding_numerous_locations_info": {
+      "message": "Подключайтесь к любому из серверов, расположенных по всему миру"
+   },
+   "popup_onboarding_trusted_vpn": {
+      "message": "Надежный VPN "
+   },
+   "popup_onboarding_trusted_vpn_info": {
+      "message": "От разработчика знаменитого блокировщика рекламы"
+   },
+   "popup_settings_disable_vpn": {
+      "message": "Не использовать VPN на этом сайте"
+   },
+   "popup_settings_enable_vpn_short": {
+      "message": "Включить"
+   },
+   "popup_settings_feedback": {
+      "message": "Обратная связь"
+   },
+   "popup_settings_open_settings": {
+      "message": "Настройки"
+   },
+   "popup_settings_other_products": {
+      "message": "Другие продукты"
+   },
+   "popup_settings_sign_out": {
+      "message": "Выйти"
+   },
+   "popup_site_status_unaccessible": {
+      "message": "находится в вашей локальной сети и недоступен через VPN"
+   },
+   "popup_site_status_vpn_disabled": {
+      "message": "VPN отключен на этом сайте"
+   },
+   "popup_traffic_limit_exceeded_cta_btn": {
+      "message": "Ускорить VPN"
+   },
+   "popup_traffic_limit_exceeded_description": {
+      "message": "У вас закончился бесплатный трафик, и теперь AdGuard VPN работает медленно."
+   },
+   "popup_traffic_limit_exceeded_title": {
+      "message": "Скорость снижена"
+   },
+   "popup_traffic_limit_reached": {
+      "message": "Ежемесячный лимит трафика достигнут. Хотите больше?"
+   },
+   "popup_upgrade_screen_all_locations": {
+      "message": "Все локации"
+   },
+   "popup_upgrade_screen_all_locations_desc": {
+      "message": "5 континентов и десятки стран. Выберите город и пользуйтесь интернетом безопасно!"
+   },
+   "popup_upgrade_screen_continue_free": {
+      "message": "Продолжить бесплатно"
+   },
+   "popup_upgrade_screen_streaming": {
+      "message": "Доступен стриминг"
+   },
+   "popup_upgrade_screen_streaming_support": {
+      "message": "Стриминг "
+   },
+   "popup_upgrade_screen_streaming_support_desc": {
+      "message": "Доступны все главные стриминговые сервисы. Смотрите что угодно и где угодно!"
+   },
+   "popup_upgrade_screen_title": {
+      "message": "Безлимитный VPN"
+   },
+   "popup_upgrade_screen_unlimited_data": {
+      "message": "Неограниченный трафик"
+   },
+   "popup_upgrade_screen_unlimited_data_desc": {
+      "message": "Единственное ограничение — мы никогда не делимся вашими данными. Путешествуйте по сети, сколько душе угодно!"
+   },
+   "popup_upgrade_screen_unlimited_speed": {
+      "message": "Неограниченная скорость"
+   },
+   "popup_upgrade_screen_unlimited_speed_desc": {
+      "message": "Никаких ограничений скорости. Получите максимум возможностей вашего провайдера!"
+   },
+   "popup_upgrade_screen_upgrade_button": {
+      "message": "Улучшить"
+   },
+   "premium_upgrade": {
+      "message": "Улучшить"
+   },
+   "privacy_policy": {
+      "message": "Политика конфиденциальности"
+   },
+   "rate_description": {
+      "message": "Привет, мы команда AdGuard, и для нас очень важно знать ваше мнение о нашем продукте. Пожалуйста, оцените его.\n"
+   },
+   "rate_hide": {
+      "message": "Скрыть"
+   },
+   "referral_get_free_traffic": {
+      "message": "Получите бесплатный VPN-трафик!"
+   },
+   "registration_error_compromised_password": {
+      "message": "Пароль обнаружен в \u003Ca>базе\u003C/a> скомпрометированных паролей. Пожалуйста, введите другой пароль."
+   },
+   "registration_error_default": {
+      "message": "Произошла ошибка. Попробуйте позже"
+   },
+   "registration_error_front_unique_validation": {
+      "message": "Пароли не совпадают"
+   },
+   "registration_error_min_length": {
+      "message": "Пароль слишком короткий. Он должен состоять как минимум из 8 символов."
+   },
+   "registration_error_not_empty": {
+      "message": "Поле не должно быть пустым"
+   },
+   "registration_error_not_valid": {
+      "message": "Это значение недействительно"
+   },
+   "registration_error_unique_constraint": {
+      "message": "Это значение уже используется"
+   },
+   "sale_title": {
+      "message": "Что вы получите:"
+   },
+   "settings_connect": {
+      "message": "Подключить"
+   },
+   "settings_connection_mode_title": {
+      "message": "Режим работы"
+   },
+   "settings_context_menus_title": {
+      "message": "Добавить AdGuard VPN в контекстное меню браузера\n"
+   },
+   "settings_disconnect": {
+      "message": "Отключить"
+   },
+   "settings_dns_desc": {
+      "message": "Система доменных имен (DNS) – это эквивалент телефонной книги в интернете. Эта система ведёт регистр доменных имён и переводит их в IP-адреса."
+   },
+   "settings_dns_label": {
+      "message": "Использовать сервер DNS"
+   },
+   "settings_dns_selector_adguard_desc": {
+      "message": "Удаляет рекламу и трекеры с вашего устройства"
+   },
+   "settings_dns_selector_adguard_family_desc": {
+      "message": "AdGuard DNS + Безопасный поиск и блокировка контента для взрослых"
+   },
+   "settings_dns_selector_adguard_family_title": {
+      "message": "AdGuard DNS Семейная защита"
+   },
+   "settings_dns_selector_adguard_nonfiltering_desc": {
+      "message": "Безопасный DNS-сервер без регистрации активности (не фильтрует рекламу и трекеры)"
+   },
+   "settings_dns_selector_adguard_nonfiltering_title": {
+      "message": "AdGuard DNS Без фильтрации"
+   },
+   "settings_dns_selector_adguard_title": {
+      "message": "AdGuard DNS"
+   },
+   "settings_dns_selector_cisco_desc": {
+      "message": "DNS-сервер, защищающий устройство от сетевых угроз"
+   },
+   "settings_dns_selector_cisco_title": {
+      "message": "Cisco OpenDNS"
+   },
+   "settings_dns_selector_cloudflare_desc": {
+      "message": "Бесплатный DNS сервис от Сloudflare"
+   },
+   "settings_dns_selector_cloudflare_title": {
+      "message": "Cloudflare DNS"
+   },
+   "settings_dns_selector_default_desc": {
+      "message": "Автоматически использовать DNS-сервер по умолчанию при подключении к VPN"
+   },
+   "settings_dns_selector_default_title": {
+      "message": "По умолчанию"
+   },
+   "settings_dns_selector_google_desc": {
+      "message": "Бесплатный альтернативный DNS-сервис от Google"
+   },
+   "settings_dns_selector_google_title": {
+      "message": "Google DNS"
+   },
+   "settings_dns_selector_quad9_desc": {
+      "message": "Бесплатный альтернативный DNS-сервис с защитой от фишинга и шпионских программ"
+   },
+   "settings_dns_selector_quad9_title": {
+      "message": "Quad9"
+   },
+   "settings_exclusion_actions": {
+      "message": "Действия"
+   },
+   "settings_exclusion_add": {
+      "message": "Добавить"
+   },
+   "settings_exclusion_add_from_list": {
+      "message": "Из списка"
+   },
+   "settings_exclusion_add_manually": {
+      "message": "Вручную"
+   },
+   "settings_exclusion_add_manually_add": {
+      "message": "Добавить вручную"
+   },
+   "settings_exclusion_add_subdomain": {
+      "message": "Добавить поддомен"
+   },
+   "settings_exclusion_add_website": {
+      "message": "Добавить сайт"
+   },
+   "settings_exclusion_change_mode": {
+      "message": "Изменить режим"
+   },
+   "settings_exclusion_connection_problem": {
+      "message": "Проблема соединения"
+   },
+   "settings_exclusion_domain_name": {
+      "message": "Доменное имя:"
+   },
+   "settings_exclusion_general_description": {
+      "message": "AdGuard VPN не будет работать на сайтах из списка исключений"
+   },
+   "settings_exclusion_general_title": {
+      "message": "Основной режим"
+   },
+   "settings_exclusion_group_settings_subtitle_regular_mode": {
+      "message": "AdGuard VPN отключен для доменов и поддоменов, отмеченных галочкой"
+   },
+   "settings_exclusion_group_settings_subtitle_selective_mode": {
+      "message": "AdGuard VPN подключен для доменов и поддоменов, отмеченных галочкой"
+   },
+   "settings_exclusion_invalid_subdomain": {
+      "message": "Некорректный поддомен"
+   },
+   "settings_exclusion_modal_cancel": {
+      "message": "Отмена"
+   },
+   "settings_exclusion_modal_remove": {
+      "message": "Удалить"
+   },
+   "settings_exclusion_modal_save": {
+      "message": "Сохранить"
+   },
+   "settings_exclusion_nothing_found": {
+      "message": "Ничего не найдено"
+   },
+   "settings_exclusion_placeholder_search": {
+      "message": "Поиск"
+   },
+   "settings_exclusion_reset_button": {
+      "message": "Сброс"
+   },
+   "settings_exclusion_reset_service_confirmation_message": {
+      "message": "Вернуть настройки по умолчанию для %hostname%? Это восстановит все отсутствующие домены и установит флажки."
+   },
+   "settings_exclusion_reset_to_default": {
+      "message": "Вернуть настройки по умолчанию"
+   },
+   "settings_exclusion_search_website": {
+      "message": "Поиск сайта"
+   },
+   "settings_exclusion_selective_description": {
+      "message": "AdGuard VPN будет работать только на сайтах из списка исключений"
+   },
+   "settings_exclusion_selective_title": {
+      "message": "Выборочный режим"
+   },
+   "settings_exclusion_service_settings_subtitle_regular_mode": {
+      "message": "AdGuard VPN отключен для доменов, отмеченных галочкой"
+   },
+   "settings_exclusion_service_settings_subtitle_selective_mode": {
+      "message": "AdGuard VPN подключен для доменов, отмеченных галочкой"
+   },
+   "settings_exclusion_status_all_subdomains": {
+      "message": "все поддомены"
+   },
+   "settings_exclusion_status_domain": {
+      "message": "домен"
+   },
+   "settings_exclusion_status_subdomain": {
+      "message": "поддомен"
+   },
+   "settings_exclusion_subdomain_name": {
+      "message": "Имя поддомена:"
+   },
+   "settings_exclusion_subdomains_text": {
+      "message": "Вы можете добавлять домены (например, google.com) или все поддомены (например, *.google.com)"
+   },
+   "settings_exclusion_subdomains_title": {
+      "message": "Поддомены"
+   },
+   "settings_exclusion_title": {
+      "message": "Исключения"
+   },
+   "settings_exclusions_action_export": {
+      "message": "Экспортировать исключения"
+   },
+   "settings_exclusions_action_import": {
+      "message": "Импортировать исключения"
+   },
+   "settings_exclusions_action_remove_all": {
+      "message": "Удалить все"
+   },
+   "settings_exclusions_add_invalid_domain": {
+      "message": "«%url%» — некорректный домен. Вы хотите добавить его в список?"
+   },
+   "settings_exclusions_delete_button": {
+      "message": "Удалить все"
+   },
+   "settings_exclusions_export_button": {
+      "message": "Экспортировать"
+   },
+   "settings_exclusions_import_button": {
+      "message": "Импортировать"
+   },
+   "settings_exclusions_remove_all_exclusions": {
+      "message": "Удалить все исключения"
+   },
+   "settings_exclusions_remove_all_exclusions_message": {
+      "message": "Вы уверены, что хотите продолжить? Список исключений будет удалён."
+   },
+   "settings_exclusions_undo": {
+      "message": "Отменить"
+   },
+   "settings_help_us_improve_description": {
+      "message": "Разрешить AdGuard VPN собирать отчеты о сбоях, технические данные и данные о взаимодействии. Это анонимно."
+   },
+   "settings_help_us_improve_title": {
+      "message": "Помогите нам стать лучше"
+   },
+   "settings_rate_us": {
+      "message": "Оценить приложение"
+   },
+   "settings_referral_copy_link": {
+      "message": "Скопировать ссылку"
+   },
+   "settings_referral_info": {
+      "message": "Пригласите друзей присоединиться к нашему клану ниндзя и получите больше бесплатного VPN-трафика на месяц. По %your_gb% ГБ вам и каждому вашему другу, который зарегистрируется! Всего можно получить %total_gb% ГБ."
+   },
+   "settings_referral_invited_friends": {
+      "message": "Приглашённые друзья %count%/%limit%"
+   },
+   "settings_referral_limit_reached": {
+      "message": "Вы уже получили %your_gb% ГБ бесплатного VPN-трафика. Но ваши друзья всё ещё могут получить %friend_gb% ГБ дополнительного VPN-трафика в подарок, если вы пригласите их!"
+   },
+   "settings_referral_link_copied": {
+      "message": "Ссылка скопирована"
+   },
+   "settings_run_upgrade_early_bird": {
+      "message": "Ограниченное предложение"
+   },
+   "settings_theme_dark": {
+      "message": "Тёмная"
+   },
+   "settings_theme_label": {
+      "message": "Тема"
+   },
+   "settings_theme_light": {
+      "message": "Светлая"
+   },
+   "settings_theme_system": {
+      "message": "Системная"
+   },
+   "settings_title": {
+      "message": "Настройки"
+   },
+   "settings_vpn_connecting": {
+      "message": "Соединение..."
+   },
+   "settings_vpn_disabled": {
+      "message": "Отключено"
+   },
+   "settings_vpn_enabled": {
+      "message": "Подключено"
+   },
+   "settings_webrtc_desc": {
+      "message": "WebRTC — это специальная технология, используемая большинством браузеров, которая позволяет стороннему веб-сайту обнаружить ваш реальный IP-адрес и использовать его для вашей идентификации."
+   },
+   "settings_webrtc_label": {
+      "message": "Блокировать WebRTC"
+   },
+   "short_name": {
+      "message": "AdGuard VPN"
+   },
+   "upgrade_features_all_locations": {
+      "message": "Все локации"
+   },
+   "upgrade_features_data": {
+      "message": "Неограниченный трафик"
+   },
+   "upgrade_features_devices": {
+      "message": "До 5  устройств"
+   },
+   "upgrade_features_speed": {
+      "message": "Ультрабыстрые серверы"
+   },
+   "upgrade_features_streaming": {
+      "message": "Стриминг"
+   }
+}

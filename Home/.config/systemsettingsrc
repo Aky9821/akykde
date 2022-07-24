@@ -1,0 +1,16 @@
+[KFileDialog Settings]
+Recent Files[$e]=refresh300.sh,file:$HOME/Documents/refresh60.sh,file:$HOME/Documents/refresh300.sh
+Recent URLs[$e]=file:$HOME/Documents/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP Height 1920x1080=840
+eDP Width 1920x1080=1224
+eDP Window-Maximized 1920x1080=true
+eDP XPosition 1920x1080=348
+eDP YPosition 1920x1080=165
+eDP-1 Height 1920x1080=840
+eDP-1 Width 1920x1080=1224

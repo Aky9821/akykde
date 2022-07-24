@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF konverter til at konvertere dokumenter som Word, Excel eller billeder til PDF."
+   },
+   "ext_description2": {
+      "message": "Du kan nemt konvertere dine dokumenter til PDF-format. Det er gratis."
+   },
+   "ext_description3": {
+      "message": "PDF konverter til at konvertere dokumenter som Word, Excel eller billeder til PDF."
+   },
+   "ext_description4": {
+      "message": "Efter PDF er oprettet, vil blive sendt til dig via e-mail."
+   },
+   "ext_description5": {
+      "message": "Filer kan gennemses fra det lokale filsystem eller give URL til dokumentet. (Tidl.: URL til en webside)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Vælg et dokument"
+   },
+   "msg_convertsend": {
+      "message": "Konverter og Send"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "Dokumentet URL"
+   },
+   "msg_email": {
+      "message": "E-mail"
+   },
+   "msg_enteremail": {
+      "message": "Indtast en e-mail."
+   },
+   "msg_notemail": {
+      "message": "Det er ikke en gyldig e-mail-adresse."
+   },
+   "msg_noturl": {
+      "message": "Det er ikke en gyldig webadresse."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Vælg et dokument."
+   },
+   "msg_sellang": {
+      "message": "Vælg sprog"
+   },
+   "msg_sentemail": {
+      "message": "The pdf-fil vil blive sendt til denne e-mail-adresse"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Angiv url af dokumentet"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter understøtter følgende dokumentformater"
+   },
+   "msg_uploaddoc": {
+      "message": "Upload dokument"
+   }
+}

@@ -1,0 +1,2 @@
+22.360679774997898	/home/akshay/akylinuxkde
+10.0	/home/akshay/akylinuxkde/Home

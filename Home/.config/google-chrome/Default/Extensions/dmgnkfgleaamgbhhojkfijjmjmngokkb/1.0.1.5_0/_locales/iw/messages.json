@@ -1,0 +1,62 @@
+﻿{
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "ext_description": {
+      "message": "אתה יכול בקלות להמיר את המסמכים לפורמט PDF. ממיר PDF כדי להמיר מסמכים כגון Word, Excel או תמונות ל-PDF."
+   },
+   "ext_description2": {
+      "message": "אתה יכול בקלות להמיר את המסמכים לפורמט PDF. זה בחינם."
+   },
+   "ext_description3": {
+      "message": "ממיר PDF כדי להמיר מסמכים כגון Word, Excel או תמונות ל-PDF."
+   },
+   "ext_description4": {
+      "message": "אחרי ה-PDF נוצר היא תישלח אליך באמצעות דואר אלקטרוני."
+   },
+   "ext_description5": {
+      "message": "ניתן לדפדף קבצים ממערכת קבצים מקומי או לספק כתובת אתר עבור המסמך. (לשעבר: כתובת אתר עבור דף אינטרנט)"
+   },
+   "msg_uploaddoc": {
+      "message": "טען מסמך"
+   },
+   "msg_choosedoc": {
+      "message": "בחר מסמך"
+   },
+   "msg_sentemail": {
+      "message": "PDF-הקובץ יישלח לכתובת דואר אלקטרוני זו"
+   },
+   "msg_docurl": {
+      "message": "כתובת URL של המסמך"
+   },
+   "msg_spcifyurldoc": {
+      "message": "הנכם מתבקשים לציין את ה-URL של המסמך"
+   },
+   "msg_convertsend": {
+      "message": "המר ושלח"
+   },
+   "msg_supportformat": {
+      "message": "ל-PDF Converter תומך בתבניות המסמך הבאות"
+   },
+   "msg_sellang": {
+      "message": "בחר את השפה"
+   },
+   "msg_default": {
+      "message": "ברירת מחדל"
+   },
+   "msg_email": {
+      "message": "דואר אלקטרוני"
+   },
+   "msg_enteremail": {
+      "message": "אנא הכנס את הדואל שלך."
+   },
+   "msg_notemail": {
+      "message": "זה לא כתובת דואל חוקית."
+   },
+   "msg_noturl": {
+      "message": "זה לא כתובת אתר חוקית."
+   },
+   "msg_plzchoosedoc": {
+      "message": "עליך לבחור מסמך."
+   }
+}

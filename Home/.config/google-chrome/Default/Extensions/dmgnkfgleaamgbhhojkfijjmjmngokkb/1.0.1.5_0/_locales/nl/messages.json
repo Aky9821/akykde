@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF converter om documenten zoals Word, Excel of afbeeldingen te converteren naar PDF."
+   },
+   "ext_description2": {
+      "message": "U kunt eenvoudig uw documenten te converteren naar PDF-formaat. Het is gratis."
+   },
+   "ext_description3": {
+      "message": "PDF converter om documenten zoals Word, Excel of afbeeldingen te converteren naar PDF."
+   },
+   "ext_description4": {
+      "message": "Nadat de PDF is gemaakt zal naar u worden verzonden via e-mail."
+   },
+   "ext_description5": {
+      "message": "Bestanden kunnen worden doorgespit van lokale bestandssysteem of bieden URL voor het document. (Ex: URL voor een webpagina)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Kies een document"
+   },
+   "msg_convertsend": {
+      "message": "Convert en verzenden"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "Het document URL"
+   },
+   "msg_email": {
+      "message": "E-mail"
+   },
+   "msg_enteremail": {
+      "message": "Vul uw e-mail."
+   },
+   "msg_notemail": {
+      "message": "Het is niet een geldig e-mailadres."
+   },
+   "msg_noturl": {
+      "message": "Het is geen geldige URL."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Kies een document."
+   },
+   "msg_sellang": {
+      "message": "Kies taal"
+   },
+   "msg_sentemail": {
+      "message": "Het pdf-bestand wordt verzonden naar dit e-mailadres"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Geef de url van het document"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter ondersteunt de volgende bestandsformaten"
+   },
+   "msg_uploaddoc": {
+      "message": "Upload document"
+   }
+}

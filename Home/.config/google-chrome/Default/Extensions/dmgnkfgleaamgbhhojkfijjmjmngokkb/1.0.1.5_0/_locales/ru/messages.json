@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF конвертер для преобразования документов, таких как Word, Excel или изображений для PDF."
+   },
+   "ext_description2": {
+      "message": "Вы можете легко конвертировать документы в формат PDF. Это бесплатно."
+   },
+   "ext_description3": {
+      "message": "PDF конвертер для преобразования документов, таких как Word, Excel или изображений для PDF."
+   },
+   "ext_description4": {
+      "message": "После PDF создан, он будет отправлен вам по электронной почте."
+   },
+   "ext_description5": {
+      "message": "Файлы могут быть просмотрены из локальной файловой системы или предоставить URL для документа. (Например: URL для веб-страницы)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Выберите документ"
+   },
+   "msg_convertsend": {
+      "message": "Преобразование и Отправить"
+   },
+   "msg_default": {
+      "message": "По умолчанию"
+   },
+   "msg_docurl": {
+      "message": "Постоянный адрес"
+   },
+   "msg_email": {
+      "message": "Email"
+   },
+   "msg_enteremail": {
+      "message": "Пожалуйста, введите Ваш E-mail."
+   },
+   "msg_notemail": {
+      "message": "Это не правильный адрес электронной почты."
+   },
+   "msg_noturl": {
+      "message": "Это не является допустимым URL."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Пожалуйста, выберите документе."
+   },
+   "msg_sellang": {
+      "message": "Выберите язык"
+   },
+   "msg_sentemail": {
+      "message": "PDF-файл будет отправлено на этот адрес электронной почты"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Пожалуйста, укажите URL документа"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter поддерживает следующие форматы документов"
+   },
+   "msg_uploaddoc": {
+      "message": "Загрузить документ"
+   }
+}

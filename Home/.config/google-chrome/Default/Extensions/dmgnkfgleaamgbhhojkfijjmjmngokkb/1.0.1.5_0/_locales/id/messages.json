@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF converter untuk mengkonversi dokumen seperti Word, Excel atau Gambar ke PDF."
+   },
+   "ext_description2": {
+      "message": "Anda dapat dengan mudah mengkonversi dokumen Anda ke format PDF. Ini gratis."
+   },
+   "ext_description3": {
+      "message": "PDF converter untuk mengkonversi dokumen seperti Word, Excel atau Gambar ke PDF."
+   },
+   "ext_description4": {
+      "message": "Setelah PDF itu terbentuk itu akan dikirim kepada Anda melalui email."
+   },
+   "ext_description5": {
+      "message": "File dapat diakses dari sistem file lokal atau memberikan URL untuk dokumen. (Ex: URL untuk halaman web)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Pilih dokumen"
+   },
+   "msg_convertsend": {
+      "message": "Mengkonversi dan Send"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "URL dokumen"
+   },
+   "msg_email": {
+      "message": "Email"
+   },
+   "msg_enteremail": {
+      "message": "Silakan masukkan email Anda."
+   },
+   "msg_notemail": {
+      "message": "Ini bukan alamat email yang valid."
+   },
+   "msg_noturl": {
+      "message": "Ini bukan URL yang valid."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Silakan pilih dokumen."
+   },
+   "msg_sellang": {
+      "message": "Pilih bahasa"
+   },
+   "msg_sentemail": {
+      "message": "The pdf-file akan dikirimkan ke alamat e-mail"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Silakan tentukan url dokumen"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter mendukung format dokumen berikut"
+   },
+   "msg_uploaddoc": {
+      "message": "Unggah Dokumen"
+   }
+}

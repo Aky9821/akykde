@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF Converter för att konvertera dokument som Word, Excel eller bilder till PDF."
+   },
+   "ext_description2": {
+      "message": "Du kan enkelt konvertera dina dokument till PDF-format. Det är gratis."
+   },
+   "ext_description3": {
+      "message": "PDF Converter för att konvertera dokument som Word, Excel eller bilder till PDF."
+   },
+   "ext_description4": {
+      "message": "Efter PDF skapas det kommer att skickas till dig via e-post."
+   },
+   "ext_description5": {
+      "message": "Filer kan bläddras från lokalt filsystem eller ge URL för dokumentet. (Ex: URL till en webbsida)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Välj ett dokument"
+   },
+   "msg_convertsend": {
+      "message": "Konvertera och Send"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "Dokumentet URL"
+   },
+   "msg_email": {
+      "message": "Skicka"
+   },
+   "msg_enteremail": {
+      "message": "Ange en e-post."
+   },
+   "msg_notemail": {
+      "message": "Det är inte en giltig e-postadress."
+   },
+   "msg_noturl": {
+      "message": "Det är inte en giltig webbadress."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Välj ett dokument."
+   },
+   "msg_sellang": {
+      "message": "Välj språk"
+   },
+   "msg_sentemail": {
+      "message": "Den pdf-filen kommer att skickas till denna e-postadress"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Ange webbadressen till dokumentet"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter stöder följande dokumentformat"
+   },
+   "msg_uploaddoc": {
+      "message": "Ladda upp dokument"
+   }
+}

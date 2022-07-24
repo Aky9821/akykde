@@ -1,0 +1,6 @@
+2022/07/24-14:47:27.413 b53 Reusing MANIFEST /home/akshay/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/07/24-14:47:27.414 b53 Recovering log #4
+2022/07/24-14:47:27.414 b53 Reusing old log /home/akshay/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000004.log 
+2022/07/24-14:48:53.993 b79 Level-0 table #8: started
+2022/07/24-14:48:53.997 b79 Level-0 table #8: 86457 bytes OK
+2022/07/24-14:48:53.999 b79 Delete type=0 #4

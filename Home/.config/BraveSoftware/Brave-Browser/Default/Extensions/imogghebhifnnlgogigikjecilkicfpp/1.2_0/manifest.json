@@ -1,0 +1,22 @@
+{
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://*.leetcode.com/*", "https://*.leetcode.cn/*" ]
+   } ],
+   "description": "Adds Format code button on leetcode to format the code using Prettier code formatter",
+   "homepage_url": "https://github.com/madhur/leetcode-format-chrome-extension",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNSlAsDAesQo1wSZPhvyr4ZxjUfrBZOvFMk626VRq7WN/4xr/EQtRAMqGtmPERMoF6NQ2FZzmyxxY9K4ZwNCP8nqXFQIQ0zIVe97pY4+iMAA/xxaPpiFv4IlFDKVgqOYzX9vQV4f7if63qTyDHUwLoW40vSdcFWH9chi0Xu+1h/nLFJkNGHs+cA1kk0ooyU6IPSamfwJqNcBP8cmEDXZ3CpqlPQUaw9tjYjTmLhziWB6+AYd7KFoI/W1y+BPozBsSYvOlu7DEq70yHYoIC48dEGjslE04D7CLv+JM2zLTIU/F5ObbuFxKasE7kOh+tojxvNx5vHrV/o0qniFAEGKHQIDAQAB",
+   "manifest_version": 3,
+   "name": "Leetcode format",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.leetcode.com/*", "https://*.leetcode.cn/*" ],
+      "resources": [ "standalone.js", "parser-babel.mjs", "parser-typescript.mjs", "parser-java.js", "beautify.js", "script.js" ]
+   } ]
+}

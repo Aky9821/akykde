@@ -1,0 +1,438 @@
+{
+   "about_title": {
+      "message": "Om"
+   },
+   "account_current_plan": {
+      "message": "Nuvarande plan"
+   },
+   "account_free": {
+      "message": "Gratis"
+   },
+   "account_sign_out": {
+      "message": "Logga ut"
+   },
+   "account_title": {
+      "message": "Konto"
+   },
+   "account_unlimited": {
+      "message": "Obegränsad"
+   },
+   "account_version": {
+      "message": "Version"
+   },
+   "auth_confirm": {
+      "message": "Bekräfta"
+   },
+   "auth_email": {
+      "message": "E-postadress"
+   },
+   "auth_header_2fa": {
+      "message": "Ange autentiseringskod"
+   },
+   "auth_header_2fa_subtitle": {
+      "message": "Tvåfaktorautentisering"
+   },
+   "auth_password": {
+      "message": "Lösenord"
+   },
+   "auth_placeholder_2fa": {
+      "message": "Autentiseringskod"
+   },
+   "auth_recover": {
+      "message": "Glömt lösenord?"
+   },
+   "auth_sign_in": {
+      "message": "Logga in"
+   },
+   "auth_sign_in_button": {
+      "message": "Logga in"
+   },
+   "auth_sign_in_provider_apple": {
+      "message": "Fortsätt med Apple"
+   },
+   "auth_sign_in_provider_facebook": {
+      "message": "Fortsätt med Facebook"
+   },
+   "auth_sign_in_provider_google": {
+      "message": "Fortsätt med Google"
+   },
+   "auth_sign_up": {
+      "message": "Registrera dig"
+   },
+   "auth_sign_up_button": {
+      "message": "Registrera dig"
+   },
+   "authentication_error_2fa_invalid": {
+      "message": "Ogiltig kod"
+   },
+   "authentication_error_2fa_required": {
+      "message": "2FA krävs"
+   },
+   "authentication_error_account_disabled": {
+      "message": "Kontot är inaktivt"
+   },
+   "authentication_error_account_locked": {
+      "message": "Kontot är låst i 15 minuter"
+   },
+   "authentication_error_wrong_credentials": {
+      "message": "Fel lösenord"
+   },
+   "context_menu_disable_vpn": {
+      "message": "Inaktivera VPN på denna webbplats"
+   },
+   "context_menu_enable_vpn": {
+      "message": "Aktivera VPN på denna webbplats"
+   },
+   "context_menu_selective_mode": {
+      "message": "Selektivt läge"
+   },
+   "control_error_disable": {
+      "message": "Inaktivera det"
+   },
+   "description": {
+      "message": "Use AdGuard VPN to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private vpn proxy."
+   },
+   "endpoints_all": {
+      "message": "Alla platser"
+   },
+   "endpoints_countries": {
+      "message": "Platser"
+   },
+   "endpoints_search": {
+      "message": "Sök plats"
+   },
+   "eula": {
+      "message": "EULA"
+   },
+   "global_error_learn_more": {
+      "message": "Läs mer"
+   },
+   "global_error_title": {
+      "message": "Fel uppstod"
+   },
+   "global_error_try_again": {
+      "message": "Försök igen"
+   },
+   "name": {
+      "message": "AdGuard VPN — free & secure proxy"
+   },
+   "official_website": {
+      "message": "Officiell webbplats"
+   },
+   "offline_title": {
+      "message": "Offline"
+   },
+   "options_bug_report_email_label": {
+      "message": "E-postadress"
+   },
+   "options_bug_report_include_log_label": {
+      "message": "Infoga diagnostikrapporten i meddelandet"
+   },
+   "options_bug_report_send_button": {
+      "message": "Skicka"
+   },
+   "options_bug_report_sending_button": {
+      "message": "Skickar..."
+   },
+   "options_bug_report_textarea_label": {
+      "message": "Meddelande"
+   },
+   "options_bug_report_textarea_placeholder": {
+      "message": "Beskriv problemet här..."
+   },
+   "options_exclusions_delete_approve_button": {
+      "message": "Radera"
+   },
+   "options_exclusions_delete_cancel_button": {
+      "message": "Avbryt"
+   },
+   "options_exclusions_delete_title": {
+      "message": "Ta bort undantag"
+   },
+   "options_exclusions_import_select_regular": {
+      "message": "Vanlig lista"
+   },
+   "options_exclusions_import_select_selective": {
+      "message": "Selektiv lista"
+   },
+   "options_exclusions_import_select_title": {
+      "message": "Importera undantag till:"
+   },
+   "options_menu_free_traffic": {
+      "message": "Gratis VPN-trafik"
+   },
+   "options_report_bug_title": {
+      "message": "Rapportera ett fel"
+   },
+   "options_signedout_page_title": {
+      "message": "Du har loggat ut ur AdGuard VPN"
+   },
+   "options_support_faq_title": {
+      "message": "FAQ"
+   },
+   "options_support_feedback_title": {
+      "message": "Lämna feedback"
+   },
+   "options_support_report_title": {
+      "message": "Rapportera ett fel"
+   },
+   "options_support_title": {
+      "message": "Support"
+   },
+   "popup_auth_policy_agreement": {
+      "description": "WARNING! Respect spaces between tags",
+      "message": "Acceptera \u003Ceula>EULA\u003C/eula> och \u003Cprivacy>Integritetspolicy\u003C/privacy>"
+   },
+   "popup_auth_policy_agreement_continue_button": {
+      "message": "Fortsätt"
+   },
+   "popup_connections_limit_description_cta_button_free": {
+      "message": "Prenumerera"
+   },
+   "popup_connections_limit_description_cta_button_premium": {
+      "message": "Läs mer"
+   },
+   "popup_desktop_vpn_enabled_button": {
+      "message": "OK"
+   },
+   "popup_desktop_vpn_enabled_title": {
+      "message": "AdGuard VPN är redan ansluten"
+   },
+   "popup_feedback_button": {
+      "message": "Lämna feedback"
+   },
+   "popup_newsletter_no_subscribe": {
+      "message": "Nej, tack"
+   },
+   "popup_newsletter_subscribe": {
+      "message": "Prenumerera"
+   },
+   "popup_newsletter_title": {
+      "message": "AdGuard Nyhetsbrev"
+   },
+   "popup_onboarding_next": {
+      "message": "Nästa"
+   },
+   "popup_settings_disable_vpn": {
+      "message": "Inaktivera VPN på denna webbplats"
+   },
+   "popup_settings_enable_vpn_short": {
+      "message": "Aktivera"
+   },
+   "popup_settings_feedback": {
+      "message": "Feedback"
+   },
+   "popup_settings_open_settings": {
+      "message": "Inställningar"
+   },
+   "popup_settings_other_products": {
+      "message": "Andra produkter"
+   },
+   "popup_settings_sign_out": {
+      "message": "Logga ut"
+   },
+   "popup_upgrade_screen_all_locations": {
+      "message": "Alla platser"
+   },
+   "popup_upgrade_screen_all_locations_desc": {
+      "message": "6 kontinenter och dussintals länder. Välj en stad och surfa säkert på nätet!"
+   },
+   "popup_upgrade_screen_title": {
+      "message": "Obegränsad VPN"
+   },
+   "popup_upgrade_screen_unlimited_data": {
+      "message": "Obegränsad data"
+   },
+   "popup_upgrade_screen_unlimited_speed": {
+      "message": "Obegränsad hastighet"
+   },
+   "popup_upgrade_screen_upgrade_button": {
+      "message": "Uppgradera"
+   },
+   "premium_upgrade": {
+      "message": "Uppgradera"
+   },
+   "privacy_policy": {
+      "message": "Integritetspolicy"
+   },
+   "rate_hide": {
+      "message": "Dölj"
+   },
+   "registration_error_min_length": {
+      "message": "Lösenordet är för kort. Den måste innehålla minst 8 tecken."
+   },
+   "registration_error_not_empty": {
+      "message": "Får inte vara tom"
+   },
+   "registration_error_not_valid": {
+      "message": "Detta värde är ogiltigt"
+   },
+   "registration_error_unique_constraint": {
+      "message": "Användarnamnet är redan taget"
+   },
+   "settings_connect": {
+      "message": "Anslut"
+   },
+   "settings_connection_mode_title": {
+      "message": "Driftläge"
+   },
+   "settings_disconnect": {
+      "message": "Koppla från"
+   },
+   "settings_dns_selector_adguard_family_desc": {
+      "message": "AdGuard DNS + Säker surf och blockering av vuxeninnehåll"
+   },
+   "settings_dns_selector_adguard_family_title": {
+      "message": "AdGuard DNS Family Protection"
+   },
+   "settings_dns_selector_adguard_title": {
+      "message": "AdGuard DNS"
+   },
+   "settings_dns_selector_cisco_desc": {
+      "message": "DNS-server som skyddar din enhet mot skadeprogram"
+   },
+   "settings_dns_selector_cisco_title": {
+      "message": "Cisco OpenDNS"
+   },
+   "settings_dns_selector_cloudflare_desc": {
+      "message": "Gratis DNS-tjänst av Cloudflare"
+   },
+   "settings_dns_selector_cloudflare_title": {
+      "message": "Cloudflare DNS"
+   },
+   "settings_dns_selector_default_title": {
+      "message": "Standard"
+   },
+   "settings_dns_selector_google_desc": {
+      "message": "Kostnadsfri alternativ DNS-tjänst från Google"
+   },
+   "settings_dns_selector_google_title": {
+      "message": "Google DNS"
+   },
+   "settings_dns_selector_quad9_desc": {
+      "message": "Gratis alternativ DNS-tjänst med skydd mot nätfiske och spionprogram"
+   },
+   "settings_dns_selector_quad9_title": {
+      "message": "Quad9"
+   },
+   "settings_exclusion_actions": {
+      "message": "Åtgärder"
+   },
+   "settings_exclusion_add": {
+      "message": "Lägg till"
+   },
+   "settings_exclusion_add_manually": {
+      "message": "Manuellt"
+   },
+   "settings_exclusion_add_manually_add": {
+      "message": "Lägg till manuellt"
+   },
+   "settings_exclusion_add_subdomain": {
+      "message": "Lägg till en underdomän"
+   },
+   "settings_exclusion_add_website": {
+      "message": "Lägg till en webbplats"
+   },
+   "settings_exclusion_connection_problem": {
+      "message": "Anslutningsproblem"
+   },
+   "settings_exclusion_domain_name": {
+      "message": "Domännamn:"
+   },
+   "settings_exclusion_modal_cancel": {
+      "message": "Avbryt"
+   },
+   "settings_exclusion_modal_remove": {
+      "message": "Ta bort"
+   },
+   "settings_exclusion_modal_save": {
+      "message": "Spara"
+   },
+   "settings_exclusion_nothing_found": {
+      "message": "Inga resultat hittades"
+   },
+   "settings_exclusion_placeholder_search": {
+      "message": "Sök"
+   },
+   "settings_exclusion_reset_button": {
+      "message": "Återställ"
+   },
+   "settings_exclusion_reset_to_default": {
+      "message": "Återställ till standard"
+   },
+   "settings_exclusion_selective_description": {
+      "message": "AdGuard VPN fungerar bara på webbplatser från listan nedan"
+   },
+   "settings_exclusion_selective_title": {
+      "message": "Selektivt läge"
+   },
+   "settings_exclusion_title": {
+      "message": "Exkluderingar"
+   },
+   "settings_exclusions_action_export": {
+      "message": "Exportuteslutningar"
+   },
+   "settings_exclusions_action_import": {
+      "message": "Importera undantag"
+   },
+   "settings_exclusions_action_remove_all": {
+      "message": "Ta bort alla"
+   },
+   "settings_exclusions_delete_button": {
+      "message": "Radera alla"
+   },
+   "settings_exclusions_export_button": {
+      "message": "Exportera"
+   },
+   "settings_exclusions_import_button": {
+      "message": "Importera"
+   },
+   "settings_exclusions_undo": {
+      "message": "Ångra"
+   },
+   "settings_rate_us": {
+      "message": "Betygsätt oss"
+   },
+   "settings_referral_copy_link": {
+      "message": "Kopiera länk"
+   },
+   "settings_theme_dark": {
+      "message": "Mörkt"
+   },
+   "settings_theme_label": {
+      "message": "Tema"
+   },
+   "settings_theme_light": {
+      "message": "Ljust"
+   },
+   "settings_theme_system": {
+      "message": "System"
+   },
+   "settings_title": {
+      "message": "Inställningar"
+   },
+   "settings_vpn_connecting": {
+      "message": "Ansluter..."
+   },
+   "settings_vpn_disabled": {
+      "message": "Bortkopplad"
+   },
+   "settings_vpn_enabled": {
+      "message": "Ansluten"
+   },
+   "settings_webrtc_label": {
+      "message": "Blockera WebRTC"
+   },
+   "short_name": {
+      "message": "AdGuard VPN"
+   },
+   "upgrade_features_all_locations": {
+      "message": "Alla platser"
+   },
+   "upgrade_features_data": {
+      "message": "Obegränsad data"
+   },
+   "upgrade_features_devices": {
+      "message": "Upp till 5 enheter"
+   }
+}

@@ -1,0 +1,706 @@
+{
+   "about_title": {
+      "message": "Vizitka"
+   },
+   "account_edit": {
+      "message": "Upravljaj"
+   },
+   "account_free": {
+      "message": "Brezplačen"
+   },
+   "account_next_charge": {
+      "message": "(Naslednje polnjenje %date%)"
+   },
+   "account_sign_out": {
+      "message": "Odjava"
+   },
+   "account_signed": {
+      "message": "Prijavljen z"
+   },
+   "account_title": {
+      "message": "Račun"
+   },
+   "account_unlimited": {
+      "message": "Neomejen"
+   },
+   "account_version": {
+      "message": "Različica"
+   },
+   "auth_confirm": {
+      "message": "Potrdi"
+   },
+   "auth_email": {
+      "message": "E-poštni naslov"
+   },
+   "auth_header_2fa": {
+      "message": "Vnesite kodo za preverjanje pristnosti"
+   },
+   "auth_header_2fa_subtitle": {
+      "message": "Dvofaktorsko preverjanje pristnosti"
+   },
+   "auth_header_registration": {
+      "message": "Prijavljate se kot \u003Cdiv>%username%\u003C/div>"
+   },
+   "auth_header_sign_in": {
+      "message": "Prijavljate se kot \u003Cdiv>%username%\u003C/div>"
+   },
+   "auth_header_sign_in_account": {
+      "message": "Prijavljeni ste v račun AdGuarda"
+   },
+   "auth_header_sign_up_create_account": {
+      "message": "S prijavo ustvarjate svoj račun AdGuarda"
+   },
+   "auth_header_sing_in_notice": {
+      "message": "Že imate račun \u003Cdiv>%username%\u003C/div>"
+   },
+   "auth_info": {
+      "message": "Nadaljuj s svojim računom AdGuard ali s prijavo družbenega omrežja"
+   },
+   "auth_password": {
+      "message": "Geslo"
+   },
+   "auth_placeholder_2fa": {
+      "message": "Koda za preverjanje pristnosti"
+   },
+   "auth_recover": {
+      "message": "Pozabljeno geslo?"
+   },
+   "auth_sign_in": {
+      "message": "Prijava"
+   },
+   "auth_sign_in_button": {
+      "message": "Prijava"
+   },
+   "auth_sign_in_link": {
+      "message": "Prijavite se z računom AdGuard"
+   },
+   "auth_sign_in_provider_apple": {
+      "message": "Nadaljuj z Apple"
+   },
+   "auth_sign_in_provider_facebook": {
+      "message": "Nadaljuj s Facebookom"
+   },
+   "auth_sign_in_provider_google": {
+      "message": "Nadaljuj z Google"
+   },
+   "auth_sign_up": {
+      "message": "Prijava"
+   },
+   "auth_sign_up_button": {
+      "message": "Prijava"
+   },
+   "auth_title": {
+      "message": "Pooblastilo"
+   },
+   "authentication_error_2fa_invalid": {
+      "message": "Neveljaven žeton"
+   },
+   "authentication_error_2fa_required": {
+      "message": "Potreben je 2FA"
+   },
+   "authentication_error_account_disabled": {
+      "message": "Račun je onemogočen"
+   },
+   "authentication_error_account_locked": {
+      "message": "Račun je zaklenjen za 15 minut"
+   },
+   "authentication_error_default": {
+      "message": "Prišlo je do napake, poskusite pozneje znova"
+   },
+   "authentication_error_wrong_credentials": {
+      "message": "Žal, napačno geslo"
+   },
+   "authentication_successful_social": {
+      "message": "Uspešna overovitev pristnosti! Lahko odprete AdGuard VPN in ga začnete uporabljati."
+   },
+   "authentication_too_many_requests": {
+      "message": "Preveč zahtev je bilo prejetih z vašega naslova IP. Poskusite znova pozneje."
+   },
+   "context_menu_disable_vpn": {
+      "message": "Onemogoči VPN na tej spletni strani"
+   },
+   "context_menu_enable_vpn": {
+      "message": "Omogoči VPN na tej spletni strani"
+   },
+   "context_menu_general_mode": {
+      "message": "Splošni način"
+   },
+   "context_menu_selective_mode": {
+      "message": "Izbirni način"
+   },
+   "continue_us_free_button": {
+      "message": "Nadaljuj kot brezplačno"
+   },
+   "control_error_description": {
+      "message": "Zdi se, da druga razširitev za Chrome poskuša nadzorovati vašo povezavo. V vašem brskalniku onemogočite drugo razširitev."
+   },
+   "control_error_disable": {
+      "message": "Onemogoči jih"
+   },
+   "description": {
+      "message": "Use AdGuard VPN to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private vpn proxy."
+   },
+   "endpoints_all": {
+      "message": "Vse lokacije"
+   },
+   "endpoints_countries": {
+      "message": "Lokacije"
+   },
+   "endpoints_fastest": {
+      "message": "Najhitreje"
+   },
+   "endpoints_not_found": {
+      "message": "Lokacija ni bila najdena"
+   },
+   "endpoints_search": {
+      "message": "Poišči lokacijo"
+   },
+   "endpoints_search_results": {
+      "message": "Rezultat iskanja"
+   },
+   "eula": {
+      "message": "Licenčna pogodba za končnega uporabnika"
+   },
+   "global_error_description": {
+      "message": "Če še naprej vidite to sporočilo, se obrnite na nas"
+   },
+   "global_error_learn_more": {
+      "message": "Več o tem"
+   },
+   "global_error_message": {
+      "message": "Prišlo je do napake. Pišite nam na naslov \u003Ca>support@adguard-vpn.com\u003C/a>"
+   },
+   "global_error_title": {
+      "message": "Prišlo je do napake"
+   },
+   "global_error_try_again": {
+      "message": "Poskusi ponovno"
+   },
+   "name": {
+      "message": "AdGuard VPN — free & secure proxy"
+   },
+   "official_website": {
+      "message": "Uradna spletna stran"
+   },
+   "offline_title": {
+      "message": "Brez povezave"
+   },
+   "options_bug_report_email_invalid": {
+      "message": "Napačen e-poštni naslov"
+   },
+   "options_bug_report_email_label": {
+      "message": "E-pošta"
+   },
+   "options_bug_report_include_log_label": {
+      "message": "V sporočilo vključite diagnostično poročilo"
+   },
+   "options_bug_report_new_report_button": {
+      "message": "Novo poročilo"
+   },
+   "options_bug_report_page_success": {
+      "message": "Hvala, vaše sporočilo je bilo uspešno poslano!"
+   },
+   "options_bug_report_request_error": {
+      "message": "Prišlo je do napake, poskusite pozneje znova."
+   },
+   "options_bug_report_send_button": {
+      "message": "Pošlji"
+   },
+   "options_bug_report_sending_button": {
+      "message": "Pošiljanje..."
+   },
+   "options_bug_report_textarea_invalid": {
+      "message": "To polje je obvezno"
+   },
+   "options_bug_report_textarea_label": {
+      "message": "Sporočilo"
+   },
+   "options_bug_report_textarea_placeholder": {
+      "message": "Tukaj opišite težavo..."
+   },
+   "options_exclusions_delete_approve_button": {
+      "message": "Izbriši"
+   },
+   "options_exclusions_delete_cancel_button": {
+      "message": "Prekliči"
+   },
+   "options_exclusions_delete_regular_description": {
+      "message": "Vse izjeme iz običajnega načina bodo izbrisane."
+   },
+   "options_exclusions_delete_selective_description": {
+      "message": "Vse izjeme iz izbirnega načina bodo izbrisane."
+   },
+   "options_exclusions_delete_title": {
+      "message": "Odstrani izjeme"
+   },
+   "options_exclusions_import_error_wrong_extensions": {
+      "message": "Izjeme morajo imeti eno izmed naslednjih končnic: %extensions%"
+   },
+   "options_exclusions_import_error_wrong_extensions_in_zip": {
+      "message": "Arhiv Zip: \"%filename%\" ne vsebuje datotek s končnicami: %extensions%"
+   },
+   "options_exclusions_import_select_regular": {
+      "message": "Redni seznam"
+   },
+   "options_exclusions_import_select_selective": {
+      "message": "Izbirni seznam"
+   },
+   "options_exclusions_import_select_title": {
+      "message": "Uvozi izjeme v:"
+   },
+   "options_exclusions_import_successful": {
+      "message": "Uvoženo izjem: %count%"
+   },
+   "options_report_bug_title": {
+      "message": "Prijavi napako"
+   },
+   "options_selective_mode_popup_attention": {
+      "message": "Pozor!"
+   },
+   "options_selective_mode_popup_button_switch_now": {
+      "message": "Preklopi zdaj"
+   },
+   "options_selective_mode_popup_message": {
+      "message": "V izbirnem načinu AdGuard VPN dela samo na dovoljenih spletnih straneh, ki so dodani na seznam."
+   },
+   "options_signedout_page_description": {
+      "message": "Vaša povezava ni varna. Za na nadaljevanje zasebnega brskanja, kliknite ikono AdGuard VPN in se znova prijavite."
+   },
+   "options_signedout_page_title": {
+      "message": "Odjavili ste se iz AdGuard VPN"
+   },
+   "options_support_faq_description": {
+      "message": "Vprašanja in odgovori"
+   },
+   "options_support_faq_title": {
+      "message": "Pogosta vprašanja in odgovori (FAQ)"
+   },
+   "options_support_feedback_description": {
+      "message": "Pošlji zahteve za funkcije in predloge"
+   },
+   "options_support_feedback_title": {
+      "message": "Pošljite povratne informacije"
+   },
+   "options_support_report_title": {
+      "message": "Prijavi napako"
+   },
+   "options_support_title": {
+      "message": "Podpora"
+   },
+   "options_title": {
+      "message": "Možnosti AdGuard VPN"
+   },
+   "popup_auth_help_us_improve_agreement": {
+      "message": "Dovoli, da AdGuard zbere \u003Clink>anonimizirane podatke\u003C/link> o uporabi aplikacije, za izboljšanje AdGuard VPN"
+   },
+   "popup_auth_policy_agreement": {
+      "description": "WARNING! Respect spaces between tags",
+      "message": "Prebral sem in se strinjam z \u003Ceula>EULA\u003C/eula> in \u003Cprivacy>Politiko zasebnosti\u003C/privacy>"
+   },
+   "popup_auth_policy_agreement_continue_button": {
+      "message": "Nadaljuj"
+   },
+   "popup_connections_limit_description_cta_button_free": {
+      "message": "Naroči se"
+   },
+   "popup_connections_limit_description_cta_button_premium": {
+      "message": "Več o tem"
+   },
+   "popup_connections_limit_description_end_free": {
+      "message": "Za dodajanje več naprav, se naročite na neomejeno različico AdGuard VPN."
+   },
+   "popup_connections_limit_description_end_premium": {
+      "message": "Za dodajanje druge naprave, onemogočite AdGuard VPN v katerem koli od pripomočkov."
+   },
+   "popup_connections_limit_description_start": {
+      "message": "Dosegli ste največje število povezav: %maxDevicesAllowed%."
+   },
+   "popup_connections_limit_title": {
+      "message": "Dosežena je omejitev povezave"
+   },
+   "popup_desktop_vpn_enabled_button": {
+      "message": "Vredu"
+   },
+   "popup_desktop_vpn_enabled_description": {
+      "message": "AdGuard VPN je omogočen v namizni aplikaciji, zato je bila razširitev samodejno onemogočena"
+   },
+   "popup_desktop_vpn_enabled_title": {
+      "message": "AdGuard VPN je že povezan"
+   },
+   "popup_feedback_button": {
+      "message": "Pošlji povratne informacije"
+   },
+   "popup_feedback_title": {
+      "message": "Zelo radi bi slišali vaše povratne informacije"
+   },
+   "popup_free_traffic_info": {
+      "description": "Respect spaces between text, tags and placeholders",
+      "message": "\u003Cspan>%value% %unit%\u003C/span> preostalo za ta mesec"
+   },
+   "popup_newsletter_info": {
+      "message": "Pošljite mi e-pošto s posebnimi ponudbami in novicami AdGuard"
+   },
+   "popup_newsletter_no_subscribe": {
+      "message": "Ne, hvala"
+   },
+   "popup_newsletter_subscribe": {
+      "message": "Naroči se"
+   },
+   "popup_newsletter_title": {
+      "message": "Glasilo AdGuarda"
+   },
+   "popup_onboarding_fastest_servers": {
+      "message": "Najhitrejši strežniki"
+   },
+   "popup_onboarding_fastest_servers_info": {
+      "message": "Za zagotavljanje najvišje hitrosti povezave uporabljamo najsodobnejše tehnologije"
+   },
+   "popup_onboarding_next": {
+      "message": "Naprej"
+   },
+   "popup_onboarding_numerous_locations": {
+      "message": "Številne lokacije"
+   },
+   "popup_onboarding_numerous_locations_info": {
+      "message": "Povežite se s katerim koli našim strežnikom po vsem svetu"
+   },
+   "popup_onboarding_trusted_vpn": {
+      "message": "Zaupanja vreden VPN"
+   },
+   "popup_onboarding_trusted_vpn_info": {
+      "message": "Od razvijalca svetovno znanega zaviralca oglasov"
+   },
+   "popup_settings_disable_vpn": {
+      "message": "Onemogoči VPN na tej spletni strani"
+   },
+   "popup_settings_enable_vpn_short": {
+      "message": "Omogoči"
+   },
+   "popup_settings_feedback": {
+      "message": "Povratne informacije"
+   },
+   "popup_settings_open_settings": {
+      "message": "Nastavitve"
+   },
+   "popup_settings_other_products": {
+      "message": "Drugi izdelki"
+   },
+   "popup_settings_sign_out": {
+      "message": "Odjava"
+   },
+   "popup_site_status_unaccessible": {
+      "message": "se nahaja v vašem lokalnem omrežju in je prek VPN nedosegljiv"
+   },
+   "popup_site_status_vpn_disabled": {
+      "message": "VPN je onemogočen na tej spletni strani"
+   },
+   "popup_traffic_limit_exceeded_cta_btn": {
+      "message": "Povečajte hitrost"
+   },
+   "popup_traffic_limit_exceeded_description": {
+      "message": "Dosegli ste omejitev brezplačnih podatkov in AdGuard VPN deluje počasi."
+   },
+   "popup_traffic_limit_exceeded_title": {
+      "message": "Hitrost je zmanjšana"
+   },
+   "popup_traffic_limit_reached": {
+      "message": "Mesečna omejitev podatkov je dosežena. Potrebujete več?"
+   },
+   "popup_upgrade_screen_all_locations": {
+      "message": "Vse lokacije"
+   },
+   "popup_upgrade_screen_continue_free": {
+      "message": "Nadaljujte brezplačno"
+   },
+   "popup_upgrade_screen_streaming": {
+      "message": "Pretakanje"
+   },
+   "popup_upgrade_screen_streaming_support": {
+      "message": "Podpora za pretakanje"
+   },
+   "popup_upgrade_screen_title": {
+      "message": "Neomejen VPN"
+   },
+   "popup_upgrade_screen_unlimited_data": {
+      "message": "Neomejene podatke"
+   },
+   "popup_upgrade_screen_unlimited_speed": {
+      "message": "Neomejena hitrost"
+   },
+   "popup_upgrade_screen_upgrade_button": {
+      "message": "Nadgradi"
+   },
+   "premium_upgrade": {
+      "message": "Nadgradi"
+   },
+   "privacy_policy": {
+      "message": "Politika zasebnosti"
+   },
+   "rate_description": {
+      "message": "Hej, smo ekipa AdGuarda in zelo pomembno nam je, da vemo vaše mnenje o našem izdelku. Prosimo ocenite ga."
+   },
+   "rate_hide": {
+      "message": "Skrij"
+   },
+   "referral_get_free_traffic": {
+      "message": "Pridobite brezplačen promet VPN!"
+   },
+   "registration_error_compromised_password": {
+      "message": "Geslo, ki ste ga vnesli, je bilo najdeno v \u003Ca>javni zbirki podatkov\u003C/a> ogroženih gesel. Pposkusite z drugim."
+   },
+   "registration_error_default": {
+      "message": "Prišlo je do napake, poskusite pozneje znova"
+   },
+   "registration_error_front_unique_validation": {
+      "message": "Gesli se ne ujemata"
+   },
+   "registration_error_min_length": {
+      "message": "Geslo je prekratko. Vsebovati mora vsaj 8 znakov."
+   },
+   "registration_error_not_empty": {
+      "message": "Ne sme biti prazno"
+   },
+   "registration_error_not_valid": {
+      "message": "Ta vrednost ni veljavna"
+   },
+   "registration_error_unique_constraint": {
+      "message": "Ta vrednost je že uporabljena"
+   },
+   "sale_title": {
+      "message": "Kaj dobite:"
+   },
+   "settings_connect": {
+      "message": "Poveži"
+   },
+   "settings_connection_mode_title": {
+      "message": "Način delovanja"
+   },
+   "settings_context_menus_title": {
+      "message": "Dodaj vnos AdGuard VPN-ja v priročni meni brskalnika"
+   },
+   "settings_disconnect": {
+      "message": "Prekini povezavo"
+   },
+   "settings_dns_desc": {
+      "message": "Domain Name System (DNS) so internetni ekvivalent spletnega telefonskega imenika. Vodijo imenik domenskih imen in jih prevajajo v naslove internetnega protokola (IP)."
+   },
+   "settings_dns_label": {
+      "message": "Uporabi strežnik DNS"
+   },
+   "settings_dns_selector_adguard_desc": {
+      "message": "Iz vaše naprave odstrani oglase in sledilce"
+   },
+   "settings_dns_selector_adguard_family_desc": {
+      "message": "AdGuard DNS + Varno iskanje in zaviranje vsebin za odrasle"
+   },
+   "settings_dns_selector_adguard_family_title": {
+      "message": "AdGuard DNS Zaščita družine"
+   },
+   "settings_dns_selector_adguard_nonfiltering_desc": {
+      "message": "Varen DNS brez dnevnika dejavnosti (ne filtrira oglasov in sledilcev)"
+   },
+   "settings_dns_selector_adguard_nonfiltering_title": {
+      "message": "AdGuard DNS Brez filtriranja"
+   },
+   "settings_dns_selector_adguard_title": {
+      "message": "AdGuard DNS"
+   },
+   "settings_dns_selector_cisco_desc": {
+      "message": "Strežnik DNS, ki varuje vašo napravo pred zlonamernimi programi"
+   },
+   "settings_dns_selector_cisco_title": {
+      "message": "Cisco OpenDNS"
+   },
+   "settings_dns_selector_cloudflare_desc": {
+      "message": "Brezplačna DNS storitev podjetja Cloudflare"
+   },
+   "settings_dns_selector_cloudflare_title": {
+      "message": "Cloudflare DNS"
+   },
+   "settings_dns_selector_default_desc": {
+      "message": "Samodejno uporabi privzete strežnike DNS, ko ste povezani na VPN"
+   },
+   "settings_dns_selector_default_title": {
+      "message": "Privzeto"
+   },
+   "settings_dns_selector_google_desc": {
+      "message": "Googlova brezplačna nadomestna storitev DNS"
+   },
+   "settings_dns_selector_google_title": {
+      "message": "Google DNS"
+   },
+   "settings_dns_selector_quad9_desc": {
+      "message": "Brezplačna alternativna DNS storitev z zaščito pred lažnim predstavljanjem in vohunskimi programi"
+   },
+   "settings_dns_selector_quad9_title": {
+      "message": "Quad9"
+   },
+   "settings_exclusion_actions": {
+      "message": "Akcij"
+   },
+   "settings_exclusion_add": {
+      "message": "Dodaj"
+   },
+   "settings_exclusion_add_from_list": {
+      "message": "S seznama"
+   },
+   "settings_exclusion_add_manually": {
+      "message": "Ročno"
+   },
+   "settings_exclusion_add_subdomain": {
+      "message": "Dodaj poddomena"
+   },
+   "settings_exclusion_add_website": {
+      "message": "Dodaj spletno stran"
+   },
+   "settings_exclusion_connection_problem": {
+      "message": "Težava s povezavo"
+   },
+   "settings_exclusion_domain_name": {
+      "message": "Ime domene:"
+   },
+   "settings_exclusion_general_description": {
+      "message": "AdGuard VPN je vklopljen povsod, razen na spletnih straneh, ki so dodane izjemam"
+   },
+   "settings_exclusion_general_title": {
+      "message": "Splošni način"
+   },
+   "settings_exclusion_group_settings_subtitle_regular_mode": {
+      "message": "AdGuard VPN je vypnutá pre zaškrtnuté domény a subdomény"
+   },
+   "settings_exclusion_group_settings_subtitle_selective_mode": {
+      "message": "AdGuard VPN je zapnutá pre zaškrtnuté domény a subdomény"
+   },
+   "settings_exclusion_modal_cancel": {
+      "message": "Prekliči"
+   },
+   "settings_exclusion_modal_remove": {
+      "message": "Odstrani"
+   },
+   "settings_exclusion_modal_save": {
+      "message": "Shrani"
+   },
+   "settings_exclusion_placeholder_search": {
+      "message": "Poišči"
+   },
+   "settings_exclusion_reset_button": {
+      "message": "Ponastavi"
+   },
+   "settings_exclusion_reset_to_default": {
+      "message": "Ponastavi na privzeto"
+   },
+   "settings_exclusion_selective_title": {
+      "message": "Izbirni način"
+   },
+   "settings_exclusion_service_settings_subtitle_regular_mode": {
+      "message": "AdGuard VPN je vypnutá pre zaškrtnuté domény"
+   },
+   "settings_exclusion_service_settings_subtitle_selective_mode": {
+      "message": "AdGuard VPN je zapnutá pre zaškrtnuté domény"
+   },
+   "settings_exclusion_subdomains_text": {
+      "message": "Lahko dodate domene (npr. google.com) ali poddomene (npr. *.google.com)"
+   },
+   "settings_exclusion_subdomains_title": {
+      "message": "Poddomene"
+   },
+   "settings_exclusion_title": {
+      "message": "Izjeme"
+   },
+   "settings_exclusions_action_export": {
+      "message": "Izvozi izjeme"
+   },
+   "settings_exclusions_action_import": {
+      "message": "Uvozi izjeme"
+   },
+   "settings_exclusions_action_remove_all": {
+      "message": "Odstrani vse"
+   },
+   "settings_exclusions_delete_button": {
+      "message": "Izbriši vse"
+   },
+   "settings_exclusions_export_button": {
+      "message": "Izvozi"
+   },
+   "settings_exclusions_import_button": {
+      "message": "Uvozi"
+   },
+   "settings_exclusions_undo": {
+      "message": "Razveljavi"
+   },
+   "settings_help_us_improve_description": {
+      "message": "Dovoli AdGuard VPN, da zbira poročila o zrušitvah, tehnične podatke in podatke o vzajemnem delovanju. To je anonimno."
+   },
+   "settings_help_us_improve_title": {
+      "message": "Pomagajte nam izboljšati"
+   },
+   "settings_rate_us": {
+      "message": "Ocenite nas"
+   },
+   "settings_referral_copy_link": {
+      "message": "Kopiraj povezavo"
+   },
+   "settings_referral_info": {
+      "message": "Povabite svoje prijatelje, da se pridružijo našemu ninja klanu in si zagotovite več brezplačnega prometa VPN za en mesec. Prejmite %your_gb% GB za vsakega prijatelja, ki se prijavi: prav tako brezplačno pridobijo dodaten %friend_gb% GB! Skupaj lahko brezplačno dobite %total_gb% GB."
+   },
+   "settings_referral_invited_friends": {
+      "message": "Povabljenih prijateljev %count%/%limit%"
+   },
+   "settings_referral_limit_reached": {
+      "message": "Prejeli ste že svojih %your_gb% GB brezplačnega prometa VPN. Toda vaši prijatelji lahko še vedno dobijo %friend_gb% GB dodatnega brezplačnega prometa VPN, če jih povabite!"
+   },
+   "settings_referral_link_copied": {
+      "message": "Povezava je kopirana"
+   },
+   "settings_run_upgrade_early_bird": {
+      "message": "Cene zgodnjih ptic"
+   },
+   "settings_theme_dark": {
+      "message": "Temna"
+   },
+   "settings_theme_label": {
+      "message": "Tema"
+   },
+   "settings_theme_light": {
+      "message": "Svetla"
+   },
+   "settings_theme_system": {
+      "message": "Sistemska privzeta"
+   },
+   "settings_title": {
+      "message": "Nastavitve"
+   },
+   "settings_vpn_connecting": {
+      "message": "Povezovanje..."
+   },
+   "settings_vpn_disabled": {
+      "message": "Izklopljen"
+   },
+   "settings_vpn_enabled": {
+      "message": "Povezan"
+   },
+   "settings_webrtc_desc": {
+      "message": "WebRTC je poseben program v večini spletnih brskalnikov, ki lahko spletnemi strani tretjih oseb omogoči zaznavanje vašega resničnega naslova IP in ga uporabi za vašo identifikacijo"
+   },
+   "settings_webrtc_label": {
+      "message": "Onemogoči WebRTC"
+   },
+   "short_name": {
+      "message": "AdGuard VPN"
+   },
+   "upgrade_features_all_locations": {
+      "message": "Vse lokacije"
+   },
+   "upgrade_features_data": {
+      "message": "Neomejene podatke"
+   },
+   "upgrade_features_devices": {
+      "message": "Do 5 naprav"
+   },
+   "upgrade_features_speed": {
+      "message": "Svetlobno hitrost strežnikov"
+   },
+   "upgrade_features_streaming": {
+      "message": "Podpora za pretočne vsebine"
+   }
+}

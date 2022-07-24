@@ -1,0 +1,27 @@
+[
+    {
+        "enabled": true,
+        "id": "1db4d8cba74ae1160c10d19f833b95ec",
+        "metadata": {
+            "fullname": "xrandr-Thermotrex Corporation-TL156VDXP01",
+            "name": "eDP"
+        },
+        "mode": {
+            "refresh": 300,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]

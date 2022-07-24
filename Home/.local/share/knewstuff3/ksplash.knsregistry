@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>QuarksSplashDark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1304256</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>87</rating>
+  <downloads>99708</downloads>
+  <installedfile>/home/akshay/.local/share/plasma/look-and-feel/QuarksSplashDark</installedfile>
+  <id>1304256</id>
+  <releasedate>2020-07-10</releasedate>
+  <summary>Quarks for plasma :P</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1304256/8ed26936ad602888ea2ee61ed644e049803c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1304256/8ed26936ad602888ea2ee61ed644e049803c.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ0MjI0NTYiLCJvIjoiMSIsInMiOiIzMjhjNTEyOWE1NDkyMzUzYzA1OWNlNjM3OTlmMGRhMjMwNzU0ZDQ4MDVkZDA1YmZmZDM2OTAzYmRiOWE3OWU2MzRkY2NmM2M2ZTJjOTJlZjZhY2YwMDk0YTUyZjkzZmI4NmZlODA0NjExYmNkZTg2NmRiZDUzZTkyYzExNThjMSIsInQiOjE2NTg2NTQ3MzcsInN0ZnAiOm51bGwsInN0aXAiOiIxMTcuMjEwLjIwNS43MyJ9.Bb7WMDfO4TOpxDPboCKnHn_crAtkaaApoCfJvGnPb5k/QuarksSplashDark.tar.gz</payload>
+  <tags>plasma,plasma##majorversion=5,theme,original-product,splash,splashscreen,unix,kde,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

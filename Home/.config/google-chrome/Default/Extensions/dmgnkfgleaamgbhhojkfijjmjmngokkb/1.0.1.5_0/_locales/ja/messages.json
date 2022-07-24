@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "ワード、エクセルやPDFへの画像のように文書を変換するPDFコンバータ。"
+   },
+   "ext_description2": {
+      "message": "あなたが簡単にPDF形式に文書を変換することができます。それは無料です。"
+   },
+   "ext_description3": {
+      "message": "ワード、エクセルやPDFへの画像のように文書を変換するPDFコンバータ。"
+   },
+   "ext_description4": {
+      "message": "PDFが作成されたら、それは電子メールによってあなたに送られます。"
+   },
+   "ext_description5": {
+      "message": "ファイルは、ローカルファイルシステムから参照またはドキュメントのURLを提供することができます。 （例：WebページのURL）"
+   },
+   "ext_name": {
+      "message": "PDFコンバータ"
+   },
+   "msg_choosedoc": {
+      "message": "文書を選択してください"
+   },
+   "msg_convertsend": {
+      "message": "変換と送信"
+   },
+   "msg_default": {
+      "message": "デフォルト"
+   },
+   "msg_docurl": {
+      "message": "文書のURL"
+   },
+   "msg_email": {
+      "message": "電子メール"
+   },
+   "msg_enteremail": {
+      "message": "あなたのメールアドレスを入力してください。"
+   },
+   "msg_notemail": {
+      "message": "これは有効なメールアドレスではありません。"
+   },
+   "msg_noturl": {
+      "message": "これは有効なURLではありません。"
+   },
+   "msg_plzchoosedoc": {
+      "message": "文書を選択してください。"
+   },
+   "msg_sellang": {
+      "message": "言語の選択"
+   },
+   "msg_sentemail": {
+      "message": "PDFファイルは、この電子メールアドレスに送信される"
+   },
+   "msg_spcifyurldoc": {
+      "message": "文書のURLを指定してください"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converterは、次のドキュメント形式をサポートしています"
+   },
+   "msg_uploaddoc": {
+      "message": "ドキュメントをアップロード"
+   }
+}

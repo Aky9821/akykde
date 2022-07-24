@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF μετατροπέα για να μετατρέψετε έγγραφα, όπως το Word, το Excel ή εικόνων σε μορφή PDF."
+   },
+   "ext_description2": {
+      "message": "Μπορείτε εύκολα να μετατρέψετε τα έγγραφά σας σε μορφή PDF. Είναι δωρεάν."
+   },
+   "ext_description3": {
+      "message": "PDF μετατροπέα για να μετατρέψετε έγγραφα, όπως το Word, το Excel ή εικόνων σε μορφή PDF."
+   },
+   "ext_description4": {
+      "message": "Μετά το PDF που δημιουργείται θα σας αποσταλεί μέσω ηλεκτρονικού ταχυδρομείου."
+   },
+   "ext_description5": {
+      "message": "Τα αρχεία μπορεί να περιηγηθεί από το τοπικό σύστημα αρχείων ή να παρέχουν URL για το έγγραφο. (Ex: URL για μια ιστοσελίδα)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Επιλέξτε ένα έγγραφο"
+   },
+   "msg_convertsend": {
+      "message": "Μετατροπή και Αποστολή"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "Η διεύθυνση URL εγγράφου"
+   },
+   "msg_email": {
+      "message": "Αποστολή"
+   },
+   "msg_enteremail": {
+      "message": "Παρακαλώ εισάγετε μια e-mail σας."
+   },
+   "msg_notemail": {
+      "message": "Δεν είναι μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+   },
+   "msg_noturl": {
+      "message": "Δεν είναι έγκυρη διεύθυνση URL."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Παρακαλώ επιλέξτε ένα έγγραφο."
+   },
+   "msg_sellang": {
+      "message": "Επιλογή γλώσσας"
+   },
+   "msg_sentemail": {
+      "message": "Το αρχείο pdf θα σταλεί σε αυτή τη διεύθυνση e-mail"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Παρακαλώ ορίστε το url του εγγράφου"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter υποστηρίζει τις ακόλουθες μορφές εγγράφων"
+   },
+   "msg_uploaddoc": {
+      "message": "Ανεβάσετε το έγγραφο"
+   }
+}

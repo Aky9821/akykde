@@ -1,0 +1,22 @@
+{
+   "api_console_project_id": "523848142127",
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://facebook.youfiles.net/"
+      },
+      "urls": [ "http://facebook.youfiles.net/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo8lNjPHqKB9K9kazkO3lGNXqPXXGLPETm5h9Rjv4XQb4MsOQtBdN9BS3JrA0cD8mtlEWQKDgyoVftVlzpCLPu7csdy/Rah20tEsOzz4Ijyv0pOV6Wwa4Ow74AghyOvV01VrD1MXzrF6zMmkNkc0yUD37MaB1k4yoOD7lbW6UelZU3xLt/f3Ng08dnFKReqTxS94Mw1A5SR77grzCoQOWkfxeFJ7vOBprbuZUckb8wvnE8fzwhxQzD7UTAWND2MRjLrvUn2VJjsu7My1hWfpP14CEKlYzaGuhyK/8nTXQy5owJCQgqFikSEfphmOKAKk0yOS7KymgT0mjA/xS6NQeBwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.3.1"
+}

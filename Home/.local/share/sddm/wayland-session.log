@@ -1,0 +1,4 @@
+QDBusConnection: error: could not send signal to service "" path "//home/akshay/.config/kdedefaults/kdeglobals" interface "org.kde.kconfig.notify" member "ConfigChanged": Invalid object path: //home/akshay/.config/kdedefaults/kdeglobals
+/usr/bin/xrdb: Can't open display ''
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+QPixmap: QGuiApplication must be created before calling defaultDepth().

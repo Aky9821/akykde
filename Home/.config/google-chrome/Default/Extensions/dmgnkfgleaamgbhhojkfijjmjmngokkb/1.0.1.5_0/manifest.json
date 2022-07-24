@@ -1,0 +1,22 @@
+{
+   "api_console_project_id": "748079751468",
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://pdfconverter.ehubsoft.net/"
+      },
+      "urls": [ "http://pdfconverter.ehubsoft.net/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqGD32Iav4EKLLNdUPk4LlP6x67yhpXhXTvLSfyrMexfllwVnM/9jkFOKxahiQufQh6Hbnc/scyLWWKuOSHZ1G4vLIDdkeF4ybr9V8ET7aEzTO4n3TxXH38QrCVIDhXF8VNEisccMutFpmzkpVNM/l7ibPWnEx9Elaa40+jsLTBe7X3a8gOGeOJZP/Esq0/jpRRHO7YiqHpcO0UP+gV9g7M5VH2x2QX+6Hg9Fpf9MpMPmmC5GBpLURpy6OxfXhuhZof5v95lagBcJ14NwSCcm0SMnTeLW2R/4jBJQ8QmwWNQ1c0oH9pCkCxPp1op7HdlPDOcaAymd0b9yLX6KWyZF2wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.5"
+}

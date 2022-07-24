@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "당신은 쉽게 PDF 형식으로 문서를 변환 할 수 있습니다. 워드, 엑셀 또는 PDF에 이미지와 같은 문서를 변환하는 PDF 변환."
+   },
+   "ext_description2": {
+      "message": "당신은 쉽게 PDF 형식으로 문서를 변환 할 수 있습니다. 그것은 무료입니다."
+   },
+   "ext_description3": {
+      "message": "워드, 엑셀 또는 PDF에 이미지와 같은 문서를 변환하는 PDF 변환."
+   },
+   "ext_description4": {
+      "message": "PDF를 만든 후 그것을 이메일로 전송됩니다."
+   },
+   "ext_description5": {
+      "message": "파일은 로컬 파일 시스템에서 열람하거나 문서에 대한 URL을 제공 할 수 있습니다. (예 : 웹 페이지의 URL)"
+   },
+   "ext_name": {
+      "message": "PDF 변환기"
+   },
+   "msg_choosedoc": {
+      "message": "문서 선택"
+   },
+   "msg_convertsend": {
+      "message": "변환 및 보내기"
+   },
+   "msg_default": {
+      "message": "기본"
+   },
+   "msg_docurl": {
+      "message": "문서 URL"
+   },
+   "msg_email": {
+      "message": "이메일"
+   },
+   "msg_enteremail": {
+      "message": "귀하의 이메일 주소를 입력하십시오."
+   },
+   "msg_notemail": {
+      "message": "이것은 유효한 이메일 주소가 아닙니다."
+   },
+   "msg_noturl": {
+      "message": "이것은 유효한 URL이 아닙니다."
+   },
+   "msg_plzchoosedoc": {
+      "message": "문서를 선택하십시오."
+   },
+   "msg_sellang": {
+      "message": "언어 선택"
+   },
+   "msg_sentemail": {
+      "message": "PDF 파일이 전자 메일 주소로 발송됩니다"
+   },
+   "msg_spcifyurldoc": {
+      "message": "문서의 URL을 지정하십시오"
+   },
+   "msg_supportformat": {
+      "message": "PDF 변환기는 다음과 같은 문서 형식을 지원합니다"
+   },
+   "msg_uploaddoc": {
+      "message": "문서 업로드"
+   }
+}

@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF конвертер для перетворення документів, таких як Word, Excel чи зображень для PDF."
+   },
+   "ext_description2": {
+      "message": "Ви можете легко конвертувати документи у формат PDF. Це безкоштовно."
+   },
+   "ext_description3": {
+      "message": "PDF конвертер для перетворення документів, таких як Word, Excel чи зображень для PDF."
+   },
+   "ext_description4": {
+      "message": "Після PDF створений, він буде відправлений вам по електронній пошті."
+   },
+   "ext_description5": {
+      "message": "Файли можуть бути переглянуті з локальної файлової системи або надати URL для документа. (Наприклад: URL для веб-сторінки)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Виберіть документ"
+   },
+   "msg_convertsend": {
+      "message": "Перетворення і Відіслати"
+   },
+   "msg_default": {
+      "message": "За замовчуванням"
+   },
+   "msg_docurl": {
+      "message": "Постійна адреса"
+   },
+   "msg_email": {
+      "message": "Email"
+   },
+   "msg_enteremail": {
+      "message": "Будь ласка, введіть Ваш E-mail."
+   },
+   "msg_notemail": {
+      "message": "Це не правильну адресу електронної пошти."
+   },
+   "msg_noturl": {
+      "message": "Це не є допустимим URL."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Будь ласка, виберіть документі."
+   },
+   "msg_sellang": {
+      "message": "Виберіть мову"
+   },
+   "msg_sentemail": {
+      "message": "PDF-файл буде надіслано на цю адресу електронної пошти"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Будь ласка, вкажіть URL документа"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter підтримує такі формати документів"
+   },
+   "msg_uploaddoc": {
+      "message": "Завантажити документ"
+   }
+}

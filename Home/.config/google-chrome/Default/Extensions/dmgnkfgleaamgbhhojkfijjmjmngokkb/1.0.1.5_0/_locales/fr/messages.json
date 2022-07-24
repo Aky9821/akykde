@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "PDF Converter pour convertir des documents Word, Excel ou des images au format PDF."
+   },
+   "ext_description2": {
+      "message": "Vous pouvez facilement convertir vos documents au format PDF. C'est gratuit."
+   },
+   "ext_description3": {
+      "message": "PDF Converter pour convertir des documents Word, Excel ou des images au format PDF."
+   },
+   "ext_description4": {
+      "message": "Après le PDF est créé, il sera envoyé à votre adresse email."
+   },
+   "ext_description5": {
+      "message": "Les fichiers peuvent être consultés à partir de système de fichiers local ou fournissent URL du document. (Ex: URL d'une page web)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Choisir un document"
+   },
+   "msg_convertsend": {
+      "message": "Convertir et envoyer"
+   },
+   "msg_default": {
+      "message": "Default"
+   },
+   "msg_docurl": {
+      "message": "L'URL de document"
+   },
+   "msg_email": {
+      "message": "Email"
+   },
+   "msg_enteremail": {
+      "message": "S'il vous plaît entrer votre e-mail d'un."
+   },
+   "msg_notemail": {
+      "message": "Ce n'est pas une adresse email valide."
+   },
+   "msg_noturl": {
+      "message": "Ce n'est pas une URL valide."
+   },
+   "msg_plzchoosedoc": {
+      "message": "S'il vous plaît choisir un document."
+   },
+   "msg_sellang": {
+      "message": "Sélectionner la langue"
+   },
+   "msg_sentemail": {
+      "message": "Le fichier pdf sera envoyé à cette adresse e-mail"
+   },
+   "msg_spcifyurldoc": {
+      "message": "S'il vous plaît préciser l'url du document"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter prend en charge les formats de documents suivants"
+   },
+   "msg_uploaddoc": {
+      "message": "Téléchargez le document"
+   }
+}

@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "يمكنك بسهولة تحويل المستندات الخاصة بك إلى تنسيق PDF. تحويل PDF لتحويل الوثائق مثل وورد، إكسل أو الصور إلى PDF."
+   },
+   "ext_description2": {
+      "message": "يمكنك بسهولة تحويل المستندات الخاصة بك إلى تنسيق PDF. أنه مجاني."
+   },
+   "ext_description3": {
+      "message": "تحويل PDF لتحويل الوثائق مثل وورد، إكسل أو الصور إلى PDF."
+   },
+   "ext_description4": {
+      "message": "وبعد إنشاء PDF إرسالها لكم عبر البريد الإلكتروني."
+   },
+   "ext_description5": {
+      "message": "يمكن تصفحها الملفات من نظام الملفات المحلية أو توفير URL للمستند. (مثلا: URL لصفحة ويب)"
+   },
+   "ext_name": {
+      "message": "تحويل PDF"
+   },
+   "msg_choosedoc": {
+      "message": "اختر وثيقة"
+   },
+   "msg_convertsend": {
+      "message": "تحويل وإرسال"
+   },
+   "msg_default": {
+      "message": "الافتراضي"
+   },
+   "msg_docurl": {
+      "message": "وثيقة URL"
+   },
+   "msg_email": {
+      "message": "البريد الإلكتروني"
+   },
+   "msg_enteremail": {
+      "message": "الرجاء إدخال البريد الإلكتروني الخاص بك."
+   },
+   "msg_notemail": {
+      "message": "ليس عنوان بريد إلكتروني صالح."
+   },
+   "msg_noturl": {
+      "message": "ليس عنوان URL صالحا."
+   },
+   "msg_plzchoosedoc": {
+      "message": "الرجاء اختيار الوثيقة."
+   },
+   "msg_sellang": {
+      "message": "اختر لغة"
+   },
+   "msg_sentemail": {
+      "message": "سوف يتم إرسال الملف إلى PDF-هذا البريد الإلكتروني"
+   },
+   "msg_spcifyurldoc": {
+      "message": "الرجاء تحديد عنوان URL وثيقة"
+   },
+   "msg_supportformat": {
+      "message": "تحويل PDF يدعم تنسيقات المستندات التالية"
+   },
+   "msg_uploaddoc": {
+      "message": "تحميل وثيقة"
+   }
+}

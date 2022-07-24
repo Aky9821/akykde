@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Deepin 2022 Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1851730</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>3911</downloads>
+  <installedfile>/home/akshay/.local/share/color-schemes/Deepin2022Dark.colors</installedfile>
+  <id>1851730</id>
+  <releasedate>2022-07-10</releasedate>
+  <summary>scheme color for global theme deepin 2022 dark</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1851730/screenshot-20220630-155627.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1851730/screenshot-20220630-155627.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTc0Njk0MDkiLCJvIjoiMSIsInMiOiIzMzQ3ZGU1ZmNiZWYwNzcxNGNkNDJjYzE0NTJmNmQzYjQ4ZDYzZTBkYWM5M2U2ZWY1ZGQ5NzhhNDY1YjNiZDYwMjJjNzAwOGIyOWY0Mzg1OWNjNTZiZmIyNDQ0MjQ4YWZiZjNlN2I4OWMxOGM5NDY0N2M2ZGQyYjU2MjdkMzg1MiIsInQiOjE2NTg2NTUwNTQsInN0ZnAiOm51bGwsInN0aXAiOiIxMTcuMjEwLjIwNS43MyJ9.V2VpPwT8O6HpVJJ4DnovaHWW5SYvahmnMHti5F5ktD4/Deepin2022Dark.colors.tar.gz</payload>
+  <tags>unix,plasma,theme,kde,linux,colorscheme,deepin,dark,agplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

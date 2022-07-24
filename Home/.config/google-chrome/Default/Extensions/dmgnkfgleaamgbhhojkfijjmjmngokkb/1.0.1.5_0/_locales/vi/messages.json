@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "Chuyển đổi PDF để chuyển đổi các tài liệu như Word, Excel hoặc hình ảnh sang PDF."
+   },
+   "ext_description2": {
+      "message": "Bạn có thể dễ dàng chuyển đổi tài liệu sang định dạng PDF. Đó là miễn phí."
+   },
+   "ext_description3": {
+      "message": "Chuyển đổi PDF để chuyển đổi các tài liệu như Word, Excel hoặc hình ảnh sang PDF."
+   },
+   "ext_description4": {
+      "message": "Sau khi file PDF được tạo ra nó sẽ được gửi đến bạn qua email."
+   },
+   "ext_description5": {
+      "message": "Tập tin có thể được duyệt từ hệ thống tập tin địa phương hoặc cung cấp địa chỉ URL của tài liệu. (Ví dụ: URL của một trang web)"
+   },
+   "ext_name": {
+      "message": "PDF Converter"
+   },
+   "msg_choosedoc": {
+      "message": "Chọn một tài liệu"
+   },
+   "msg_convertsend": {
+      "message": "Chuyển đổi và Send"
+   },
+   "msg_default": {
+      "message": "Mặc định"
+   },
+   "msg_docurl": {
+      "message": "URL tài liệu"
+   },
+   "msg_email": {
+      "message": "Email"
+   },
+   "msg_enteremail": {
+      "message": "Hãy nhập email của bạn."
+   },
+   "msg_notemail": {
+      "message": "Nó không phải là một địa chỉ email hợp lệ."
+   },
+   "msg_noturl": {
+      "message": "Nó không phải là một URL hợp lệ."
+   },
+   "msg_plzchoosedoc": {
+      "message": "Hãy chọn một tài liệu."
+   },
+   "msg_sellang": {
+      "message": "Chọn ngôn ngữ"
+   },
+   "msg_sentemail": {
+      "message": "Các pdf tập tin sẽ được gửi đến địa chỉ e-mail này"
+   },
+   "msg_spcifyurldoc": {
+      "message": "Hãy xác định địa chỉ của các tài liệu"
+   },
+   "msg_supportformat": {
+      "message": "PDF Converter hỗ trợ các định dạng tài liệu sau đây"
+   },
+   "msg_uploaddoc": {
+      "message": "Tải tài liệu"
+   }
+}

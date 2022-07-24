@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="https://accounts.google.com/o/oauth2/v2/auth?scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ftasks&amp;response_type=code&amp;redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&amp;client_id=391436299960-k0s16nm589meovhoblpcquqgbbrena17.apps.googleusercontent.com" added="2022-07-24T08:57:17.623000Z" modified="2022-07-24T08:57:17.623000Z" visited="2022-07-24T08:57:17.623000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %U %u" modified="2022-07-24T08:57:17.623000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=user:email&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dd81cb4af-554b-45e7-bcf2-012caab71fa6%2526windowId%253D1" added="2022-07-24T08:58:23.135000Z" modified="2022-07-24T08:58:23.135000Z" visited="2022-07-24T08:58:23.135000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %U %u" modified="2022-07-24T08:58:23.135000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=d81cb4af-554b-45e7-bcf2-012caab71fa6&amp;windowId=1&amp;code=32ff4d80e30c47f116a9&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dd81cb4af-554b-45e7-bcf2-012caab71fa6%2526windowId%253D1" added="2022-07-24T08:58:33.200000Z" modified="2022-07-24T08:58:33.200000Z" visited="2022-07-24T08:58:33.200000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="visual-studio-code-url-handler" exec="/usr/bin/code --open-url %U %u" modified="2022-07-24T08:58:33.200000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/akshay/Desktop/C++" added="2022-07-24T09:03:26.357420Z" modified="2022-07-24T09:03:26.357438Z" visited="2022-07-24T09:03:26.357424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2022-07-24T09:03:26.357427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/akshay/akylinuxkde/script.sh" added="2022-07-24T09:04:12.432000Z" modified="2022-07-24T09:04:20.695000Z" visited="2022-07-24T09:04:20.695000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-07-24T09:04:20.695000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ocs://install?url=https%3A%2F%2Fdl2.pling.com%2Fapi%2Ffiles%2Fdownload%2Fj%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY1ODIwODY0NSwidSI6bnVsbCwibHQiOiJpbnN0YWxsIiwicyI6IjdlNGY0OWUxYjljNzVmNDdlZTkzMDkzNjE1NjY3NTNmYTIwMjAyNzFjNmZjNTAxZGEyNDdiOGQzZjg3ZTdmZGIyZmY1MzNhZmU5NDMzOWUyMTIyYTBlMzU0YWYyMWZhMzBkMjU0ZGU0OTA2MDUyMWVjNWVlMDgzZDVjNDY3ZThlIiwidCI6MTY1ODY1Mzc4Niwic3RmcCI6IjE4MmZkYmQ4NDZmODNmNjE4MDZkNjMwYmMzNjY1MDkxIiwic3RpcCI6IjExNy4yMTAuMjA1LjczIn0.puh3E8xp41Oh43WE9Ocaxed0buzdUNkDGVSmPLq5PkM%2Fcompact-shutdown-new.plasmoid&amp;type=plasma5_plasmoids&amp;filename=compact-shutdown-new.plasmoid" added="2022-07-24T09:04:49.352000Z" modified="2022-07-24T09:04:49.352000Z" visited="2022-07-24T09:04:49.352000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="ocs-url" exec="ocs-url %u %u" modified="2022-07-24T09:04:49.352000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ocs://install?url=https%3A%2F%2Fdl2.pling.com%2Fapi%2Ffiles%2Fdownload%2Fj%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY1Mjk3MjIxNywidSI6bnVsbCwibHQiOiJpbnN0YWxsIiwicyI6ImEyNjQwN2Y5NGFhOTRjZjA2ZjFjMWVkZjQ4NmUzMmIwM2EzOTQwOGE5ODFjNTQ2MGRmNTllZGQ2MDhlN2U1OGYxOGIyMzAwNzBlYTAxYTZmMWY3ZmIzMDkzNWZmMzlhNDY4YmM0ODZhMzc5MGNiNDQ1ODc4YzU5NmU2ZDA2MjE4IiwidCI6MTY1ODY1MzgyMSwic3RmcCI6IjE4MmZkYmQ4NDZmODNmNjE4MDZkNjMwYmMzNjY1MDkxIiwic3RpcCI6IjExNy4yMTAuMjA1LjczIn0.ZxNKGyW4jKnIJf5BL0l59uKlsPNJEwTlQIEcXZGhcFg%2Fmodernclock-0.2.0.tar.gz&amp;type=plasma5_plasmoids&amp;filename=modernclock-0.2.0.tar.gz" added="2022-07-24T09:05:21.811000Z" modified="2022-07-24T09:05:21.811000Z" visited="2022-07-24T09:05:21.811000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="ocs-url" exec="ocs-url %u %u" modified="2022-07-24T09:05:21.811000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/akshay/Hard%20Drive/Manjaro%20Backup%20July%202022/Home/Desktop/Time.txt" added="2022-07-24T09:09:19.224000Z" modified="2022-07-24T09:09:19.299000Z" visited="2022-07-24T09:09:19.299000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2022-07-24T09:09:19.299000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

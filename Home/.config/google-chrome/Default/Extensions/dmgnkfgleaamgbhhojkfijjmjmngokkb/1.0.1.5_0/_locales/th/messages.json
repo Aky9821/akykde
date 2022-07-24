@@ -1,0 +1,62 @@
+{
+   "ext_description": {
+      "message": "แปลง PDF เพื่อแปลงเอกสารเช่น Word, Excel หรือรูปภาพเพื่อ PDF"
+   },
+   "ext_description2": {
+      "message": "คุณสามารถแปลงเอกสารของคุณเป็นรูปแบบไฟล์ PDF มันเป็นฟรี"
+   },
+   "ext_description3": {
+      "message": "แปลง PDF เพื่อแปลงเอกสารเช่น Word, Excel หรือรูปภาพเพื่อ PDF"
+   },
+   "ext_description4": {
+      "message": "หลังจากที่รูปแบบไฟล์ PDF ถูกสร้างขึ้นมันจะถูกส่งไปให้ท่านทางอีเมล์"
+   },
+   "ext_description5": {
+      "message": "ไฟล์สามารถเรียกดูจากระบบแฟ้มในท้องถิ่นหรือให้ URL สำหรับเอกสาร (อดีต: URL สำหรับหน้าเว็บ)"
+   },
+   "ext_name": {
+      "message": "แปลงไฟล์ PDF"
+   },
+   "msg_choosedoc": {
+      "message": "เลือกเอกสาร"
+   },
+   "msg_convertsend": {
+      "message": "แปลงและส่ง"
+   },
+   "msg_default": {
+      "message": "เริ่มต้น"
+   },
+   "msg_docurl": {
+      "message": "URL เอกสาร"
+   },
+   "msg_email": {
+      "message": "อีเมล"
+   },
+   "msg_enteremail": {
+      "message": "กรุณากรอกอีเมลของคุณ."
+   },
+   "msg_notemail": {
+      "message": "มันไม่ได้เป็นอีเมล์ที่ถูกต้อง."
+   },
+   "msg_noturl": {
+      "message": "มันไม่ใช่ URL ที่ถูกต้อง."
+   },
+   "msg_plzchoosedoc": {
+      "message": "โปรดเลือกเอกสาร."
+   },
+   "msg_sellang": {
+      "message": "เลือกภาษา"
+   },
+   "msg_sentemail": {
+      "message": "pdf file ที่จะถูกส่งไปยังที่อยู่ e-mail"
+   },
+   "msg_spcifyurldoc": {
+      "message": "โปรดระบุ URL ของเอกสาร"
+   },
+   "msg_supportformat": {
+      "message": "รูปแบบไฟล์ PDF Converter สนับสนุนรูปแบบเอกสารต่อไปนี้"
+   },
+   "msg_uploaddoc": {
+      "message": "Upload เอกสาร"
+   }
+}
