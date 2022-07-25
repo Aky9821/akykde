@@ -21,7 +21,7 @@ cd plasma-applet-eventcalendar
 cd ..
 cp -r Akytheme /$HOME/.local/share/plasma/desktoptheme
 
-yay -Syu google-chrome visual-studio-code-bin spotify freeoffice vlc barrier nvidia nvidia-utils nvidia-settings terminator kdeconnect qbittorrent telegram-desktop gdb
+yay -Syu google-chrome visual-studio-code-bin spotify freeoffice vlc barrier nvidia nvidia-utils nvidia-settings terminator kdeconnect qbittorrent telegram-desktop gdb discord
 
 
 \cp dolphinrc /$HOME/.config/dolphinrc

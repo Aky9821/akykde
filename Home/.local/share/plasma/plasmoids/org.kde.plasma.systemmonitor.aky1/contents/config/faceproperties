@@ -1,0 +1,12 @@
+[Config]
+chartFace=org.kde.ksysguard.horizontalbars
+highPrioritySensorIds=["cpu/all/usage","memory/physical/usedPercent","disk/all/usedPercent","gpu/gpu0/usage","gpu/gpu1/usage"]
+lowPrioritySensorIds=["lmsensors/acpitz-acpi-0/temp1","gpu/gpu0/temperature","lmsensors/asus-isa-0000/fan1","network/all/download"]
+totalSensors=["cpu/all/usage"]
+
+[SensorColors]
+cpu/all/usage=20,100,220
+disk/all/usedPercent=20,43,220
+gpu/gpu0/usage=20,102,220
+gpu/gpu1/usage=220,40,20
+memory/physical/usedPercent=220,34,20

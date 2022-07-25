@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/akshay/Documents/mountMain.sh
+Icon=dialog-scripts
+Name=mountMain.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true

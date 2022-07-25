@@ -1,0 +1,57 @@
+(N) 2022-07-24T15:31:00 - qBittorrent v4.4.3.1 started
+(N) 2022-07-24T15:31:00 - Using config directory: /home/akshay/.config/qBittorrent
+(I) 2022-07-24T15:31:01 - Trying to listen on: 0.0.0.0:60962,[::]:60962
+(N) 2022-07-24T15:31:01 - Peer ID: -qB4431-
+(N) 2022-07-24T15:31:01 - HTTP User-Agent is 'qBittorrent/4.4.3.1'
+(I) 2022-07-24T15:31:01 - DHT support [ON]
+(I) 2022-07-24T15:31:01 - Local Peer Discovery support [ON]
+(I) 2022-07-24T15:31:01 - PeX support [ON]
+(I) 2022-07-24T15:31:01 - Anonymous mode [OFF]
+(I) 2022-07-24T15:31:01 - Encryption support [ON]
+(I) 2022-07-24T15:31:01 - UPnP / NAT-PMP support [ON]
+(W) 2022-07-24T15:31:01 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: 127.0.0.1, port: TCP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: 127.0.0.1, port: UTP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: 192.168.1.8, port: TCP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: 192.168.1.8, port: UTP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: 192.168.1.5, port: TCP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: 192.168.1.5, port: UTP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: ::1, port: TCP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: ::1, port: UTP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: fe80::9f56:5cc4:76dc:8042%wlp3s0, port: TCP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: fe80::9f56:5cc4:76dc:8042%wlp3s0, port: UTP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: fe80::95a0:da73:6254:b364%enp5s0f4u2u4c2, port: TCP/60962
+(I) 2022-07-24T15:31:01 - Successfully listening on IP: fe80::95a0:da73:6254:b364%enp5s0f4u2u4c2, port: UTP/60962
+(I) 2022-07-24T15:31:04 - Detected external IP: 117.210.205.73
+(I) 2022-07-24T15:31:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Jul 1 05:53:19 2022.
+(I) 2022-07-24T15:31:04 - Successfully updated IP geolocation database.
+(N) 2022-07-24T15:31:23 - Options saved.
+(N) 2022-07-24T15:31:26 - Options saved.
+(I) 2022-07-24T15:37:18 - UPnP / NAT-PMP support [OFF]
+(N) 2022-07-24T15:40:24 - qBittorrent v4.4.3.1 started
+(N) 2022-07-24T15:40:24 - Using config directory: /home/akshay/.config/qBittorrent
+(I) 2022-07-24T15:40:24 - Trying to listen on: 0.0.0.0:60962,[::]:60962
+(N) 2022-07-24T15:40:24 - Peer ID: -qB4431-
+(N) 2022-07-24T15:40:24 - HTTP User-Agent is 'qBittorrent/4.4.3.1'
+(I) 2022-07-24T15:40:24 - DHT support [ON]
+(I) 2022-07-24T15:40:24 - Local Peer Discovery support [ON]
+(I) 2022-07-24T15:40:24 - PeX support [ON]
+(I) 2022-07-24T15:40:24 - Anonymous mode [OFF]
+(I) 2022-07-24T15:40:24 - Encryption support [ON]
+(I) 2022-07-24T15:40:24 - UPnP / NAT-PMP support [ON]
+(I) 2022-07-24T15:40:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Jul 1 05:53:19 2022.
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: 127.0.0.1, port: TCP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: 127.0.0.1, port: UTP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: 192.168.1.8, port: TCP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: 192.168.1.8, port: UTP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: 192.168.1.5, port: TCP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: 192.168.1.5, port: UTP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: ::1, port: TCP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: ::1, port: UTP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: fe80::9f56:5cc4:76dc:8042%wlp3s0, port: TCP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: fe80::9f56:5cc4:76dc:8042%wlp3s0, port: UTP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: fe80::95a0:da73:6254:b364%enp5s0f4u2u4c2, port: TCP/60962
+(I) 2022-07-24T15:40:24 - Successfully listening on IP: fe80::95a0:da73:6254:b364%enp5s0f4u2u4c2, port: UTP/60962
+(I) 2022-07-24T15:40:25 - Detected external IP: 117.210.205.73
+(N) 2022-07-24T15:40:57 - Options saved.
+(I) 2022-07-24T15:41:01 - UPnP / NAT-PMP support [OFF]
