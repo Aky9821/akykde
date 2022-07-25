@@ -1,8 +1,0 @@
-[24/07/2022 13:46:01]
-Traceback (most recent call last):
-  File "/home/akshay/.local/lib/python3.10/site-packages/konsave/funcs.py", line 40, in inner_func
-    function = func(*args, **kwargs)
-  File "/home/akshay/.local/lib/python3.10/site-packages/konsave/funcs.py", line 103, in copy
-    os.mkdir(dest)
-FileNotFoundError: [Errno 2] No such file or directory: '/home/akshay/.local/share/kxmlgui5'
-
